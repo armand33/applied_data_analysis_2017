@@ -8,7 +8,7 @@ Furthermore, the perception we have of the world affairs rely strongly on the me
 
 # Research questions
 * Has the post cold-war world become more or less peaceful ?
-* What are the countries that underwent the most dramatic change in peace/violence ?
+* What are the countries that underwent the most significant change in peace/violence ?
 * Is our vision of world order (formed by the media we read) realistic ?
 
 # Dataset
@@ -16,7 +16,7 @@ We will use the UCDP data set that is available online as a csv file.
 
 This data set lists events, that is incidents of lethal violence occuring at a given time and place between january 1989 and december 2013 (excluding Syria).  All those events are quantified, that means that it gives for each event the parties involved, the number of casualties on both side, the broader conflict if there is one, the time and place and the sources that reported the event.
 
-Each event for each event, we know exactly the longitude and latitude coordinates therefore we plot. So therefore, we can pinpoint the exact location of the event on a map. 
+For each event, we know exactly the longitude and latitude coordinates therefore we plot. So therefore, we can pinpoint the exact location of the event on a map.
 
 Data can be filtered by type of violence (state-based, one-sided), general conflict, actor involved, location or date. For example, it is easy to retrieve data on the state conflicts in which the US has been involved in Africa since 1989. There is only one, against al-Quaida and it has led to the direct death of 97 persons, among which 68 members of al-Qaida and 12 civilians.
 
