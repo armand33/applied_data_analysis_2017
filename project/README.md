@@ -3,6 +3,10 @@
 # Abstract
 The end of the cold war, that the fall of the Berlin wall announced already in 1989, meant for many that a New World Order was to be established. Using the data set provided by UCDP we would like to address the following question ? Has the world become a safer place ? We need to find a way to quantify 'safe' given the data that we have and to draw a scale of 'world safety'.
 
+Furthermore, it seems that nowadays the media is giving a worse and worse image of the world. Is this accurate ?
+
+Goal : open our eyes ? Tackle preconceived ideas about world order ? Were the US responsible for many death in Africa ? Middle East ? On the contrary local conflicts we do not hear about resulted in many many deaths ?
+
 # Research questions
 * Is the world become less and less peaceful ?
 
