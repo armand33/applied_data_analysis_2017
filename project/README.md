@@ -7,6 +7,10 @@ Furthermore, it seems that nowadays the media is giving a worse and worse image 
 
 Goal : open our eyes ? Tackle preconceived ideas about world order ? Were the US responsible for many death in Africa ? Middle East ? On the contrary local conflicts we do not hear about resulted in many many deaths ?
 
+Déséquilibre entre la réalité des faits et l'idée qu'on en a à travers les médias. Faire le clair sur les chiffres de la paix et la guerre dans le monde.
+
+Quels pays se sont vraiment transformés ? Crimes en chute ou au contraire explosion de la violence.
+
 # Research questions
 * Is the world become less and less peaceful ?
 
