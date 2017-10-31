@@ -13,6 +13,8 @@ Quels pays se sont vraiment transformés ? Crimes en chute ou au contraire explo
 
 # Research questions
 * Is the world become less and less peaceful ?
+* What are the countries that underwent the most drastic shift in peace/violence ?
+* Question our preconceived ideas on world peace.
 
 
 # Dataset
