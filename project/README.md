@@ -35,14 +35,9 @@ However, the data set does not contain anything about Syria. As it is currently 
 # A list of internal milestones up until project milestone 2
 
 - First of all we plan to do some data cleaning. Make sure thet the data we have available to us is all in the correct format.
-  Remove from the  irrevelant columns which don't convey, interesting information.
-
+- Remove from the  irrevelant columns which don't convey, interesting information.
 - Since the course will involve applying machine learning as, we should think of how we would apply this to our project.
-
 - We plan on doing thourough data exploration
-
-
-
 
 
 
