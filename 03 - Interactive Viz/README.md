@@ -1,16 +1,16 @@
 # 03 - Interactive Viz
 
+
+# Link for rendered maps
+
+In order to see the rendered maps, you can follow this [link](https://nbviewer.jupyter.org/github/armand33/applied_data_analysis_2017/blob/master/03%20-%20Interactive%20Viz/Homework%203.ipynb) to an online notebook viewer.
+
+If link is dead, and to make sure you read the latest version of render, you can also go on the [notebook viewer website](https://nbviewer.jupyter.org/) and paste the github [link](https://github.com/armand33/applied_data_analysis_2017/blob/master/03%20-%20Interactive%20Viz/Homework%203.ipynb) of our notebook.
+
+
 ## Deadline
 
 Wednesday November 8th, 2017 at 11:59PM
-
-## Important Notes
-
-- Make sure you push on GitHub your Notebook with all the cells already evaluated
-- Note that maps do not render in a standard Github environment : you should export them to HTML and link them in your notebook.
-- Remember that `.csv` is not the only data format. Though they might require additional processing, some formats provide better encoding support.
-- Don't forget to add a textual description of your thought process, the assumptions you made, and the solution you plan to implement!
-- Please write all your comments in English, and use meaningful variable names in your code
 
 ## Background
 
