@@ -1,0 +1,1 @@
+In order to render the maps, you can either look at the html files in maps/ or you can use the the online [notebook viewer](https://nbviewer.jupyter.org/) and copy the link of our notebook or just follow this [link](https://nbviewer.jupyter.org/github/armand33/applied_data_analysis_2017/blob/master/03%20-%20Interactive%20Viz/Homework%203.ipynb).
