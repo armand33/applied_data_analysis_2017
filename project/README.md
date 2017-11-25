@@ -29,6 +29,6 @@ However, the data set does not contain anything about Syria. As it is currently 
 - Statistics responding to our first two question should be available by milestone 2.
 - Define more precisely the angle in which we want to tell our data story depending on the findings of data exploration.
 
-# Questions for TAa
+# Questions for TAs
 - Is there any similar data set on Syria or covering 2013 to nowadays ?
 - If yes can we enrich our data set using those ?
