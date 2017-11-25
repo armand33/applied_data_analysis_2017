@@ -2,8 +2,9 @@ import folium
 import pandas as pd
 import branca.colormap as bcm
 import numpy as np
+from folium.plugins import MarkerCluster
 
-def insert_code(df, tmp, topo_data):
+def insert_code(df, topo_data):
     tmp = df.copy()
     tmp['code'] = ''
     for d in topo_data['objects']['countries1']['geometries']:
