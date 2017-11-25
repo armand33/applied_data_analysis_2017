@@ -1,4 +1,9 @@
-def insert_code(tmp, topo_data):
+import folium
+import pandas as pd
+import branca.colormap as bcm
+import numpy as np
+
+def insert_code(df, tmp, topo_data):
     tmp = df.copy()
     tmp['code'] = ''
     for d in topo_data['objects']['countries1']['geometries']:
