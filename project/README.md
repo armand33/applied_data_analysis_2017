@@ -1,15 +1,22 @@
-# The new world order in perspective
+# How has world peace been doing since the fall of the Berlin Wall
+### *A walkthrough of the geopolitics of the last thirty years.*
 
 # Abstract
 
-The fall of the berlin wall in 1989, meant the cold war was coming to an end and a New World Order was to be established. Using the data set provided by UCDP, we would like to address the following question : has the world become a safer place ? We need to find a way to quantify 'safe' given the data that we have and finally to draw a chronological scale of 'world safety'.
+The fall of the berlin wall in 1989, meant the cold war was coming to an end and a New World Order was to be established. Using the data set provided by UCDP, we would like to tell the story of the geopolitics of the last \~thirty years by looking at the results of major crisis but also to countries that have undergone general instability in this period without real outburst of violence. The aim is to understand past political crises and provide tools to understand and predict the current and future political state of the world.
 
-Furthermore, the perception we have of the world affairs rely strongly on the media that is available to us. Because we believe in the popular right to state and media transparency, we would like to put concrete figures on conflicts over the globe all that in the most neutral way possible. That means we will try to put in perspective the importance of well known conflict but also look for unheard conflicts of some importance.
+The roadmap is the following:
+- Start with some genral statistic about world safety (as in part 2)
+- Detail some well known crisis such as the Rwandan genocide and compare them to some others (WWII, Shoah)
+- Explore events in a groups (socialists uprisals, ethnic conflicts, cartel wars)
+- Put those in relations with other data (economy, drought)
+
+The story will be told on an interractive map relying on JavaScript libraries such as D3.
 
 # Research questions
-* Has the post cold-war world become more or less peaceful ?
-* What are the countries that underwent the most significant change in peace/violence ?
-* Is our vision of world order (formed by the media we read) realistic ?
+* How has the world evolved in terms of conflicts after the cold war, i.e., during the time span covered in the dataset?
+* Which countries have undergone the most important crises during these time spans and which of those crises might be interlinked spatially and politically?
+* Does the coverage of conflicts by media represent the real-world numbers in terms of number of conflicts and fatalities, or is there a bias?
 
 # Dataset
 We will use the UCDP data set that is available online as a csv file.
