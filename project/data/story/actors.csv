@@ -1,443 +1,443 @@
-,id,name,countries,region,designated_terrorist,current_terrorist,former_terrorist,left_wing,successful_left,failed_left,former_left,guerilla,rebel,rebel_with,rebel_without,govs,liberation_movements,insurgents,communists,islamists,factions,cartels,muslims,christians,republics,civilian_deaths,total_deaths,url
-0,768,Popular Revolutionary Army,['Mexico'],Latin America,,,,1,,,,1,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Popular_Revolutionary_Army
-1,513,African National Congress,['South Africa'],,1,1,0,1,1,0,,,,,,,,,,,,,,,,186,0,https://en.wikipedia.org/wiki/African_National_Congress
-2,258,Maoist Communist Party,['Turkey'],Middle East,,,,1,,,,1,1,0,1,,,,,,,,,,,2454,27,https://en.wikipedia.org/wiki/Communist_Party_of_India_(Maoist)
-3,771,United Self-Defense Forces of Colombia,,,1,1,0,,,,,,,,,,,,,,,,,,,6910,1207,https://en.wikipedia.org/wiki/United_Self-Defense_Forces_of_Colombia
-4,982,Workers' Front of Catalonia,['Spain'],,,,,1,0,1,,,,,,,,,,,,,,,,0,8,https://en.wikipedia.org/wiki/Workers%27_Front_of_Catalonia
-5,5822,Raia Mutomboki,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,
-6,4359,Army of the Men of the Naqshbandi Order,['Iraq'],,1,1,0,1,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Army_of_the_Men_of_the_Naqshbandi_Order
-7,520,Afar Revolutionary Democratic Unity Front,['Ethiopia'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Afar_Revolutionary_Democratic_Unity_Front
-8,290,Revolutionary Front of Independent East Timor,,Asia,,,,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Fretilin
-9,629,Janjaweed,,Africa,,,,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Janjaweed
-10,528,Democratic Forces for the Liberation of Rwanda,,Africa,,,,,,,,1,,,,,,,,,,,,,,3230,55,https://en.wikipedia.org/wiki/Democratic_Forces_for_the_Liberation_of_Rwanda
-11,4369,Ansar al-Sharia (Libya),,,1,1,0,,,,,,,,,,,,,,,,,,,186,744,https://en.wikipedia.org/wiki/Ansar_al-Sharia_(Libya)
-12,275,Moro National Liberation Front,['Philippines'],Asia,,,,1,,,,1,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Moro_National_Liberation_Front
-13,276,Moro Islamic Liberation Front,['Philippines'],Asia,,,,,,,,1,1,0,1,,,,,,,,,,,652,0,https://en.wikipedia.org/wiki/Moro_Islamic_Liberation_Front
-14,277,Abu Sayyaf,"['Philippines', 'International']",Asia,1,1,0,,,,,1,1,0,1,,,,,,,,,,,720,0,https://en.wikipedia.org/wiki/Abu_Sayyaf
-15,275,Moro National Liberation Front,['Philippines'],Asia,,,,1,,,,1,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Moro_National_Liberation_Front
-16,1047,Indian Mujahideen,['India'],,1,1,0,,,,,,1,0,1,,,,,,,,,,,1000,0,https://en.wikipedia.org/wiki/Indian_Mujahideen
-17,282,Provisional Irish Republican Army,['United Kingdom'],Europe,1,1,0,1,,,1,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army
-18,283,Real Irish Republican Army,['United Kingdom'],,1,1,0,1,,,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Real_Irish_Republican_Army
-19,540,Front for the Liberation of the Enclave of Cabinda,['Angola'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Front_for_the_Liberation_of_the_Enclave_of_Cabinda
-20,1053,Convention of Patriots for Justice and Peace,['Central African Republic'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Convention_of_Patriots_for_Justice_and_Peace
-21,223,National Socialist Council of Nagaland,['India'],,,,,1,,,,,1,0,1,,,,,,,,,,,1006,349,https://en.wikipedia.org/wiki/National_Socialist_Council_of_Nagaland
-22,287,Balochistan Liberation Army,['Pakistan'],Asia,1,1,0,,,,,1,1,0,1,,,,,,,,,,,290,0,https://en.wikipedia.org/wiki/Balochistan_Liberation_Army
-23,304,Islamic Front,['Syria'],,,,,,,,,,1,0,1,,,,,,,,,,,408,0,
-24,546,Ninjas,['Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Ninja
-25,359,Islamic Movement of Uzbekistan,"['Pakistan', 'Afghanistan', 'International', 'Uzbekistan']",,1,1,0,,,,,,1,0,1,,,,,,,,,,,14,221,https://en.wikipedia.org/wiki/Islamic_Movement_of_Uzbekistan
-26,551,Oromo Liberation Front,['Ethiopia'],Africa,,,,,,,,1,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Oromo_Liberation_Front
-27,554,Union of Democratic Forces for Unity,['Central African Republic'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Union_of_Democratic_Forces_for_Unity
-28,562,Niger Movement for Justice,,Africa,,,,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Niger_Movement_for_Justice
-29,560,Niger Delta People's Volunteer Force,['Nigeria'],,,,,,,,,,1,0,1,,,,,,,,,,,24,15,https://en.wikipedia.org/wiki/Niger_Delta_People%27s_Volunteer_Force
-30,306,All Tripura Tiger Force,,,1,1,0,,,,,,,,,,,,,,,,,,,534,0,https://en.wikipedia.org/wiki/All_Tripura_Tiger_Force
-31,307,National Liberation Front of Tripura,,,1,1,0,,,,,,,,,,,,,,,,,,,874,0,https://en.wikipedia.org/wiki/National_Liberation_Front_of_Tripura
-32,5940,Zintan Brigade,['Libya'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Zintan_Brigades
-33,309,Kurdistan Free Life Party,['Iran'],Middle East,,,,1,,,,1,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Kurdistan_Free_Life_Party
-34,567,National Union for the Total Independence of Angola,,Africa,,,,,,,,1,,,,,,,,,,,,,,4738,0,https://en.wikipedia.org/wiki/UNITA
-35,826,Fatah Revolutionary Council,['Palestine'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Abu_Nidal_Organization
-36,315,United National Liberation Front,,,1,1,0,,,,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/United_National_Liberation_Front
-37,769,Al-Qaeda,"['Yemen', 'Burkina Faso', 'International', 'Somalia', 'Algeria', 'Egypt', 'Tunsia', 'Syria', 'Lebanon']",Asia,,,,,,,,1,1,0,1,,,,,,,,,,,5746,0,https://en.wikipedia.org/wiki/Al-Qaeda
-38,317,Kangleipak Communist Party,,,1,1,0,,,,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Kangleipak_Communist_Party
-39,1086,African National Congress,['South Africa'],,1,1,0,1,1,0,,,,,,,,,,,,,,,,548,1470,https://en.wikipedia.org/wiki/African_National_Congress
-40,320,Liberation Tigers of Tamil Eelam,,Asia,1,1,0,,,,,1,,,,,,,,,,,,,,4816,289,https://en.wikipedia.org/wiki/Liberation_Tigers_of_Tamil_Eelam
-41,223,National Socialist Council of Nagaland,['India'],,,,,1,,,,,1,0,1,,,,,,,,,,,1006,349,https://en.wikipedia.org/wiki/National_Socialist_Council_of_Nagaland
-42,323,Kurdistan Workers' Party,"['Turkey', 'International']",Middle East,1,1,0,1,,,,1,1,0,1,,,,,,,,,,,2482,112,https://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party
-43,326,United Liberation Front of Assam,['India'],,1,1,0,,,,,,1,0,1,,,,,,,,,,,1088,0,https://en.wikipedia.org/wiki/United_Liberation_Front_of_Assam
-44,327,Free Aceh Movement,['Indonesia'],Asia,,,,,,,,1,1,0,1,,,,,,,,,,,536,0,https://en.wikipedia.org/wiki/Free_Aceh_Movement
-45,329,Lebanese National Movement,['Lebanon'],,,,,1,0,1,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Lebanese_National_Movement
-46,469,Sudan Liberation Movement/Army,['Sudan'],Africa,,,,,,,,1,1,0,1,,,,,,,,,,,234,1,https://en.wikipedia.org/wiki/Sudan_Liberation_Movement/Army
-47,334,Revolutionary Left Movement,['Chile'],Latin America,,,,1,,,1,1,,,,,,,,,,,,,,0,0,
-48,335,Maoist Communist Party,['Turkey'],Middle East,,,,1,,,,1,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Communist_Party_of_India_(Maoist)
-49,1107,Democratic Karen Buddhist Army,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Democratic_Karen_Buddhist_Army
-50,6741,Forest Brothers,,Europe,,,,,,,,1,,,,,,,,,,,,,,40,18,https://en.wikipedia.org/wiki/Forest_Brothers
-51,6742,Communist Party of Malaya,,Asia,,,,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Malayan_Communist_Party
-52,185,All Burma Students' Democratic Front,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/All_Burma_Students%27_Democratic_Front
-53,314,People’s Liberation Army,['Lebanon'],,,,,1,0,1,,,,,,,,,,,,,,,,0,0,
-54,6751,Zintan Brigade,['Libya'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Zintan_Brigades
-55,2297,Liberation Tigers of Tamil Eelam,,Asia,1,1,0,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Liberation_Tigers_of_Tamil_Eelam
-56,1122,Shan State Progressive Party,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Shan_State_Army_-_North
-57,1123,Sudan People's Liberation Movement-North,['Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Sudan_People%27s_Liberation_Movement
-58,1124,Sudan Liberation Movement/Army,['Sudan'],Africa,,,,,,,,1,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Sudan_Liberation_Movement/Army
-59,357,Kosovo Liberation Army,,Europe,,,,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Kosovo_Liberation_Army
-60,785,Democratic Karen Buddhist Army,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,24,125,https://en.wikipedia.org/wiki/Democratic_Karen_Buddhist_Army
-61,1128,Army for the Liberation of Rwanda,,Africa,,,,,,,,1,,,,,,,,,,,,,,6472,108,https://en.wikipedia.org/wiki/Army_for_the_Liberation_of_Rwanda
-62,1130,Free Syrian Army,['Syria'],,,,,,,,,,1,0,1,,,,,,,,,,,0,1,https://en.wikipedia.org/wiki/Free_Syrian_Army
-63,225,Karenni National Progressive Party,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Karenni_National_Progressive_Party
-64,563,Popular Front for the Liberation of Saguia el Hamra and Rio de Oro,,Africa,,,,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Polisario_Front
-65,1645,Democratic Front of the Central African People,['Central African Republic'],,,,,,,,,,1,0,1,,,,,,,,,,,78,0,https://en.wikipedia.org/wiki/Democratic_Front_of_the_Central_African_People
-66,879,Progressive Socialist Party,['Lebanon'],,,,,1,0,1,1,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Progressive_Socialist_Party
-67,880,Myanmar National Democratic Alliance Army,['Myanmar'],,,,,1,,,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Myanmar_National_Democratic_Alliance_Army
-68,881,al-Qaeda in the Arabian Peninsula,,,1,1,0,,,,,,,,,,,,,,,,,,,34,418,https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Arabian_Peninsula
-69,1165,Purbo Banglar Communist Party,['Bangladesh'],,,,,1,,,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Purbo_Banglar_Communist_Party
-70,3955,Communist Party of India (Marxist–Leninist),,,1,1,0,,,,,,,,,,,,,,,,,,,0,20,https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist%E2%80%93Leninist)
-71,628,Janjaweed,,Africa,,,,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Janjaweed
-72,318,People's Revolutionary Party of Kangleipak,,,1,1,0,,,,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/People%27s_Revolutionary_Party_of_Kangleipak
-73,630,Janjaweed,,Africa,,,,,,,,1,,,,,,,,,,,,,,5904,196,https://en.wikipedia.org/wiki/Janjaweed
-74,5826,National Democratic Front of Bodoland,,Asia,1,1,0,,,,,1,,,,,,,,,,,,,,278,0,https://en.wikipedia.org/wiki/National_Democratic_Front_of_Boroland
-75,1146,Bangsamoro Islamic Freedom Fighters,['Philippines'],,,,,,,,,,1,0,1,,,,,,,,,,,0,45,https://en.wikipedia.org/wiki/Bangsamoro_Islamic_Freedom_Fighters
-76,307,National Liberation Front of Tripura,,,1,1,0,,,,,,,,,,,,,,,,,,,874,0,https://en.wikipedia.org/wiki/National_Liberation_Front_of_Tripura
-77,541,Front for the Liberation of the Enclave of Cabinda,['Angola'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Front_for_the_Liberation_of_the_Enclave_of_Cabinda
-78,3946,Communist Party of India (Marxist–Leninist),,,1,1,0,,,,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist%E2%80%93Leninist)
-79,223,National Socialist Council of Nagaland,['India'],,,,,1,,,,,1,0,1,,,,,,,,,,,1006,349,https://en.wikipedia.org/wiki/National_Socialist_Council_of_Nagaland
-80,383,Moroccan Islamic Combatant Group,,,1,1,0,,,,,,,,,,,,,,,,,,,382,0,https://en.wikipedia.org/wiki/Moroccan_Islamic_Combatant_Group
-81,4226,Sudan People's Liberation Movement-in-Opposition,,Africa,,,,,,,,1,,,,,,,,,,,,,,1454,0,https://en.wikipedia.org/wiki/Sudan_People%27s_Liberation_Movement-in-Opposition
-82,3563,South Sudan Democratic Movement,['South Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/South_Sudan_Democratic_Movement
-83,1156,East Turkestan Islamic Movement,['China'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Turkistan_Islamic_Party
-84,320,Liberation Tigers of Tamil Eelam,,Asia,1,1,0,,,,,1,,,,,,,,,,,,,,4816,289,https://en.wikipedia.org/wiki/Liberation_Tigers_of_Tamil_Eelam
-85,1158,National Movement for the Liberation of Azawad,['Mali'],,,,,,,,,,1,0,1,,,,,,,,,,,6,57,https://en.wikipedia.org/wiki/National_Movement_for_the_Liberation_of_Azawad
-86,763,Military,"['Iraq', 'Syria']",,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Military
-87,4233,Arab Democratic Party,['Lebanon'],,,,,1,0,1,,,,,,,,,,,,,,,,94,0,
-88,1162,Sudan Revolutionary Front,['Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,0,44,https://en.wikipedia.org/wiki/Sudan_Revolutionary_Front
-89,275,Moro National Liberation Front,['Philippines'],Asia,,,,1,,,,1,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Moro_National_Liberation_Front
-90,653,Rally for Congolese Democracy,,Africa,,,,,,,,1,,,,,,,,,,,,,,370,0,https://en.wikipedia.org/wiki/Rally_for_Congolese_Democracy
-91,6718,Military,"['Iraq', 'Syria']",,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Military
-92,399,Army of Islam,['Palestine'],,1,1,0,,,,,,1,0,1,,,,,,,,,,,144,358,
-93,657,Niger Delta Vigilante,['Nigeria'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Niger_Delta_Vigilante
-94,660,Nuer White Army,['South Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Nuer_White_Army
-95,665,Pan Africanist Congress of Azania,['South Africa'],,,,,1,1,0,,,,,,,,,,,,,,,,124,0,https://en.wikipedia.org/wiki/Pan_Africanist_Congress_of_Azania
-96,367,Caucasus Emirate,['Russia'],,1,1,0,,,,,,1,0,1,,,,,,,,,,,264,0,https://en.wikipedia.org/wiki/Caucasus_Emirate
-97,414,Ethiopian People's Revolutionary Democratic Front,['Ethiopia'],,,,,1,1,0,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Ethiopian_People%27s_Revolutionary_Democratic_Front
-98,416,Eritrean People's Liberation Front,['Eritrea'],,,,,1,1,0,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Eritrean_People%27s_Liberation_Front
-99,4006,Sultanate of Sulu,['Philippines'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Sultanate_of_Sulu
-100,423,Movement for the Liberation of Congo,,Africa,,,,,,,,1,,,,,,,,,,,,,,370,0,https://en.wikipedia.org/wiki/Movement_for_the_Liberation_of_the_Congo
-101,424,Rally for Congolese Democracy,,Africa,,,,,,,,1,,,,,,,,,,,,,,9314,0,https://en.wikipedia.org/wiki/Rally_for_Congolese_Democracy
-102,169,Communist Party of the Philippines,['Philippines'],,,,,1,,,,,1,0,1,,,,,,,,,,,324,0,https://en.wikipedia.org/wiki/Communist_Party_of_the_Philippines
-103,170,Military,"['Iraq', 'Syria']",,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Military
-104,498,Mozambican National Resistance,,Africa,,,,,,,,1,,,,,,,,,,,,,,2808,0,https://en.wikipedia.org/wiki/RENAMO
-105,4319,Ansar Bait al-Maqdis,,,1,1,0,,,,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Ansar_Bait_al-Maqdis
-106,1199,Raia Mutomboki,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,48,0,
-107,607,Fulani herdsmen,['Nigeria'],,,,,,,,,,1,0,1,,,,,,,,,,,114,733,https://en.wikipedia.org/wiki/Fulani_herdsmen
-108,755,Farabundo Martí National Liberation Front,['El Salvador'],Latin America,,,,1,,,1,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Farabundo_Mart%C3%AD_National_Liberation_Front
-109,180,Karen National Union,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Karen_National_Union
-110,364,United Wa State Army,"['Myanmar (Burma)', 'Myanmar']",,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/United_Wa_State_Army
-111,5821,Raia Mutomboki,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,60,0,
-112,190,New Mon State Party,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/New_Mon_State_Party
-113,3953,Front for the Liberation of the Golan,,Middle East,,,,,,,,1,,,,,,,,,,,,,,0,20,https://en.wikipedia.org/wiki/Front_for_the_Liberation_of_the_Golan
-114,1218,Jamaat-ul-Mujahideen Bangladesh,,,1,1,0,,,,,,,,,,,,,,,,,,,82,0,https://en.wikipedia.org/wiki/Jamaat-ul-Mujahideen_Bangladesh
-115,195,Communist Party of India (Maoist),['India'],,,,,1,,,,,,,,,,,,,,,,,,3430,0,https://en.wikipedia.org/wiki/Communist_Party_of_India_(Maoist)
-116,289,Baloch Republican Army,['Pakistan'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Baloch_Republican_Army
-117,194,Maoist Communist Centre of India,,,1,1,0,,,,,,,,,,,,,,,,,,,334,0,https://en.wikipedia.org/wiki/Maoist_Communist_Centre_of_India
-118,716,San Francisco 8,['United States'],,,,,1,0,1,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/San_Francisco
-119,205,Popular Front for the Liberation of Palestine,"['Palestine', 'Lebanon']",Middle East,1,1,0,1,0,1,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine
-120,205,Popular Front for the Liberation of Palestine,"['Palestine', 'Lebanon']",Middle East,1,1,0,1,0,1,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine
-121,717,Al-Shabaab,['Yemen'],,1,1,0,,,,,,1,0,1,,,,,,,,,,,2126,134,https://en.wikipedia.org/wiki/Al-Shabaab_(militant_group)
-122,5840,Donetsk People's Republic,['Ukraine'],,1,1,0,,,,,,1,1,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Donetsk_People%27s_Republic
-123,466,Sudan People's Liberation Movement-North,['Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,5800,2861,https://en.wikipedia.org/wiki/Sudan_People%27s_Liberation_Movement
-124,211,al-Aqsa Martyrs' Brigades,,,1,1,0,,,,,,,,,,,,,,,,,,,326,0,https://en.wikipedia.org/wiki/Al-Aqsa_Martyrs%27_Brigades
-125,212,Popular Resistance Committees,['Palestine'],Middle East,,,,,,,,1,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Popular_Resistance_Committees
-126,469,Sudan Liberation Movement/Army,['Sudan'],Africa,,,,,,,,1,1,0,1,,,,,,,,,,,234,1,https://en.wikipedia.org/wiki/Sudan_Liberation_Movement/Army
-127,470,National Redemption Front,['Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/National_Redemption_Front
-128,761,Military,"['Iraq', 'Syria']",,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Military
-129,469,Sudan Liberation Movement/Army,['Sudan'],Africa,,,,,,,,1,1,0,1,,,,,,,,,,,234,1,https://en.wikipedia.org/wiki/Sudan_Liberation_Movement/Army
-130,5849,Sudanese Awakening Revolutionary Council,['Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Sudanese_Awakening_Revolutionary_Council
-131,5839,Lugansk People's Republic,['Ukraine'],,1,1,0,,,,,,1,1,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Luhansk_People%27s_Republic
-132,732,Guatemalan National Revolutionary Unity,,Latin America,,,,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Guatemalan_National_Revolutionary_Unity
-133,223,National Socialist Council of Nagaland,['India'],,,,,1,,,,,1,0,1,,,,,,,,,,,1006,349,https://en.wikipedia.org/wiki/National_Socialist_Council_of_Nagaland
-134,3040,Nyatura,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,120,0,
-135,208,Palestinian Islamic Jihad,['Palestine'],Middle East,1,1,0,,,,,1,1,0,1,,,,,,,,,,,370,0,https://en.wikipedia.org/wiki/Islamic_Jihad_Movement_in_Palestine
-136,3043,Mai-Mai,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Mai-Mai
-137,422,Alliance of Democratic Forces for the Liberation of Congo-Zaire,,Africa,,,,,,,,1,,,,,,,,,,,,,,70408,28,https://en.wikipedia.org/wiki/Alliance_of_Democratic_Forces_for_the_Liberation_of_Congo
-138,742,Military,"['Iraq', 'Syria']",,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Military
-139,743,Revolutionary Armed Forces of Colombia,['Colombia'],Latin America,1,1,0,,,,,1,1,0,1,,,,,,,,,,,2504,0,https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
-140,489,Alliance of Democratic Forces for the Liberation of Congo-Zaire,,Africa,,,,,,,,1,,,,,,,,,,,,,,3120,0,https://en.wikipedia.org/wiki/Alliance_of_Democratic_Forces_for_the_Liberation_of_Congo
-141,235,Islamic Army of Iraq,['Iraq'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Islamic_Army_in_Iraq
-142,750,Shining Path,['Peru'],Latin America,,,,1,,,,1,1,0,1,,,,,,,,,,,1360,0,https://en.wikipedia.org/wiki/Shining_Path
-143,751,Túpac Amaru Revolutionary Movement,['Peru'],Latin America,1,1,0,1,0,1,,1,,,,,,,,,,,,,,0,15,https://en.wikipedia.org/wiki/T%C3%BApac_Amaru_Revolutionary_Movement
-144,6590,Kamwina Nsapu militia,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Kamwina_Nsapu_rebellion
-145,497,Ogaden National Liberation Front,['Ethiopia'],,,,,,,,,,1,0,1,,,,,,,,,,,168,0,https://en.wikipedia.org/wiki/Ogaden_National_Liberation_Front
-146,2034,Kurdistan Freedom Falcons,,,1,1,0,,,,,,,,,,,,,,,,,,,122,0,https://en.wikipedia.org/wiki/Kurdistan_Freedom_Hawks
-147,467,Myanmar National Democratic Alliance Army,['Myanmar'],,,,,1,,,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Myanmar_National_Democratic_Alliance_Army
-148,4340,Ulster Defence Association,,,1,1,0,,,,,,,,,,,,,,,,,,,200,0,https://en.wikipedia.org/wiki/Ulster_Defence_Association
-149,759,Contras,,Latin America,,,,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Contras
-150,6717,ETA,"['France', 'Spain']",,1,1,0,1,,,1,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Eta
-151,468,Justice and Equality Movement,['Sudan'],Africa,,,,,,,,1,1,0,1,,,,,,,,,,,158,0,https://en.wikipedia.org/wiki/Justice_and_Equality_Movement
-152,529,Movement of Democratic Forces of Casamance,['Senegal'],,,,,,,,,,1,0,1,,,,,,,,,,,616,0,https://en.wikipedia.org/wiki/Movement_of_Democratic_Forces_of_Casamance
-153,3967,Mai Mai Kata Katanga,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,374,0,https://en.wikipedia.org/wiki/Mai-Mai_Kata_Katanga
-154,764,Military,"['Iraq', 'Syria']",,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Military
-155,509,Liberians United for Reconciliation and Democracy,,Africa,,,,,,,,1,,,,,,,,,,,,,,1116,0,https://en.wikipedia.org/wiki/Liberians_United_for_Reconciliation_and_Democracy
-156,767,Zapatista National Liberation Army,['Mexico'],Latin America,,,,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Zapatista_Army_of_National_Liberation
-157,1026,Armed Islamic Group - Green Battalion,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/Green_Battalion
-158,3,Government of United States of America,,,,,,,,,,,,,,1,,,,,,,,,,1762,3189,https://en.wikipedia.org/wiki/Federal_government_of_the_United_States
-159,342,Republic of Abkhazia,,,,,,,,,,,,,,,,,,,,,,,1,252,26,https://en.wikipedia.org/wiki/Abkhazia
-160,6,Government of Haiti,,,,,,,,,,,,,,1,,,,,,,,,,272,122,https://en.wikipedia.org/wiki/Government_of_Haiti
-161,8,Government of Trinidad and Tobago,,,,,,,,,,,,,,1,,,,,,,,,,0,6,https://en.wikipedia.org/wiki/Politics_of_Trinidad_and_Tobago
-162,10,Government of Mexico,,,,,,,,,,,,,,1,,,,,,,,,,196,147,https://en.wikipedia.org/wiki/Federal_government_of_Mexico
-163,11,Government of Guatemala,,,,,,,,,,,,,,1,,,,,,,,,,4452,423,https://en.wikipedia.org/wiki/Politics_of_Guatemala
-164,13,Government of El Salvador,,,,,,,,,,,,,,1,,,,,,,,,,232,5205,https://en.wikipedia.org/wiki/Government_of_El_Salvador
-165,14,Government of Nicaragua,,,,,,,,,,,,,,1,,,,,,,,,,272,415,https://en.wikipedia.org/wiki/Government_of_Nicaragua
-166,16,Government of Panama,,,,,,,,,,,,,,1,,,,,,,,,,1000,420,https://en.wikipedia.org/wiki/Politics_of_Panama
-167,17,Government of Colombia,,,,,,,,,,,,,,1,,,,,,,,,,1874,18580,https://en.wikipedia.org/wiki/Government_of_Colombia
-168,18,Government of Venezuela,,,,,,,,,,,,,,1,,,,,,,,,,1384,4,https://en.wikipedia.org/wiki/Government_of_Venezuela
-169,20,Government of Ecuador,,,,,,,,,,,,,,1,,,,,,,,,,0,99,https://en.wikipedia.org/wiki/Politics_of_Ecuador
-170,21,Government of Peru,,,,,,,,,,,,,,1,,,,,,,,,,680,5644,https://en.wikipedia.org/wiki/Government_of_Peru
-171,22,Government of Brazil,,,,,,,,,,,,,,1,,,,,,,,,,188,0,https://en.wikipedia.org/wiki/Federal_government_of_Brazil
-172,24,Government of Paraguay,,,,,,,,,,,,,,1,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Politics_of_Paraguay
-173,1051,People Committed to Propagating the Prophet's Teachings and Jihad,,,,,,,,,,,,,,,,,,1,,,,,,16062,560,
-174,28,Government of United Kingdom,,,,,,,,,,,,,,1,,,,,,,,,,950,942,https://en.wikipedia.org/wiki/Government_of_the_United_Kingdom
-175,4130,March 23 Movement - Runiga faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/March_23_Movement
-176,35,Government of Spain,,,,,,,,,,,,,,1,,,,,,,,,,52,182,https://en.wikipedia.org/wiki/Government_of_Spain
-177,1066,National Democratic Front for Bodoland -  Ranjan Daimary faction,,,,,,,,,,,,,,,,,,,1,,,,,72,0,https://en.wikipedia.org/wiki/National_Democratic_Front_of_Boroland
-178,6187,Military faction (forces of Godefroid Niyombare),,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/2015_Burundian_coup_d%27%C3%A9tat_attempt
-179,48,Government of Croatia,,,,,,,,,,,,,,1,,,,,,,,,,518,897,https://en.wikipedia.org/wiki/Government_of_Croatia
-180,49,Government of Yugoslavia,,,,,,,,,,,,,,1,,,,,,,,,,3472,3265,https://en.wikipedia.org/wiki/Yugoslavia
-181,50,Government of Bosnia-Herzegovina,,,,,,,,,,,,,,1,,,,,,,,,,3738,6319,https://en.wikipedia.org/wiki/Armed_Forces_of_Bosnia_and_Herzegovina
-182,55,Government of Moldova,,,,,,,,,,,,,,1,,,,,,,,,,48,429,https://en.wikipedia.org/wiki/Politics_of_Moldova
-183,56,Government of Rumania,,,,,,,,,,,,,,1,,,,,,,,,,390,13,https://en.wikipedia.org/wiki/Government_of_Romania
-184,57,Government of Soviet Union,,,,,,,,,,,,,,1,,,,,,,,,,9114,12907,https://en.wikipedia.org/wiki/Government_of_the_Soviet_Union
-185,61,Government of Ukraine,,,,,,,,,,,,,,1,,,,,,,,,,2656,2265,https://en.wikipedia.org/wiki/Government_of_Ukraine
-186,63,Government of Georgia,,,,,,,,,,,,,,1,,,,,,,,,,726,2121,
-187,64,Government of Azerbaijan,,,,,,,,,,,,,,1,,,,,,,,,,604,3202,https://en.wikipedia.org/wiki/Politics_of_Azerbaijan
-188,1089,Beltrán Leyva Cartel,,,,,,,,,,,,,,,,,,,,1,,,,18,25,https://en.wikipedia.org/wiki/Beltr%C3%A1n-Leyva_Cartel
-189,1090,Beltrán Leyva Cartel - Valdez Villareal faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,
-190,70,Government of Guinea-Bissau,,,,,,,,,,,,,,1,,,,,,,,,,222,264,https://en.wikipedia.org/wiki/Guinea-Bissau
-191,72,Government of Mali,,,,,,,,,,,,,,1,,,,,,,,,,1494,1992,https://en.wikipedia.org/wiki/Politics_of_Mali
-192,73,Government of Senegal,,,,,,,,,,,,,,1,,,,,,,,,,364,1355,https://en.wikipedia.org/wiki/Politics_of_Senegal
-193,74,Government of Mauritania,,,,,,,,,,,,,,1,,,,,,,,,,100,65,https://en.wikipedia.org/wiki/Politics_of_Mauritania
-194,75,Government of Niger,,,,,,,,,,,,,,1,,,,,,,,,,844,782,https://en.wikipedia.org/wiki/Government_of_Niger
-195,76,Government of Ivory Coast,,,,,,,,,,,,,,1,,,,,,,,,,1862,352,https://en.wikipedia.org/wiki/Politics_of_Ivory_Coast
-196,77,Government of Guinea,,,,,,,,,,,,,,1,,,,,,,,,,702,511,https://en.wikipedia.org/wiki/Politics_of_Guinea
-197,1102,Taleban Movement of Pakistan - Mulla Rafique faction,,,,,,,,,,,,,,,,,,,1,,,,,6,11,
-198,79,Government of Liberia,,,,,,,,,,,,,,1,,,,,,,,,,9594,886,https://en.wikipedia.org/wiki/Politics_of_Liberia
-199,80,Government of Sierra Leone,,,,,,,,,,,,,,1,,,,,,,,,,2950,7703,https://en.wikipedia.org/wiki/Government_of_Sierra_Leone
-200,82,Government of Togo,,,,,,,,,,,,,,1,,,,,,,,,,996,0,https://en.wikipedia.org/wiki/Togo
-201,83,Government of Cameroon,,,,,,,,,,,,,,1,,,,,,,,,,338,1014,https://en.wikipedia.org/wiki/Government_of_Cameroon
-202,84,Government of Nigeria,,,,,,,,,,,,,,1,,,,,,,,,,9164,12863,https://en.wikipedia.org/wiki/Federal_government_of_Nigeria
-203,86,Government of Central African Republic,,,,,,,,,,,,,,1,,,,,,,,,1,3124,303,https://en.wikipedia.org/wiki/Politics_of_the_Central_African_Republic
-204,87,Government of Chad,,,,,,,,,,,,,,1,,,,,,,,,,2232,2141,https://en.wikipedia.org/wiki/Government_of_Chad
-205,88,Government of Congo,,,,,,,,,,,,,,1,,,,,,,,,,3086,861,https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo
-206,89,Government of Democratic Republic of the Congo (Zaire),,,,,,,,,,,,,,1,,,,,,,,,1,23170,11838,https://en.wikipedia.org/wiki/Flag_of_the_Democratic_Republic_of_the_Congo
-207,90,Government of Uganda,,,,,,,,,,,,,,1,,,,,,,,,,1460,12505,https://en.wikipedia.org/wiki/Politics_of_Uganda
-208,91,Government of Kenya,,,,,,,,,,,,,,1,,,,,,,,,,658,83,https://en.wikipedia.org/wiki/Government_of_Kenya
-209,92,Government of Tanzania,,,,,,,,,,,,,,1,,,,,,,,,,76,0,https://en.wikipedia.org/wiki/Politics_of_Tanzania
-210,93,Government of Burundi,,,,,,,,,,,,,,1,,,,,,,,,,11140,5958,https://en.wikipedia.org/wiki/Politics_of_Burundi
-211,94,Government of Rwanda,,,,,,,,,,,,,,1,,,,,,,,,,1023300,7895,https://en.wikipedia.org/wiki/Politics_of_Rwanda
-212,95,Government of Somalia,,,,,,,,,,,,,,1,,,,,,,,,,10762,9252,https://en.wikipedia.org/wiki/Federal_Government_of_Somalia
-213,96,Government of Djibouti,,,,,,,,,,,,,,1,,,,,,,,,,12,174,https://en.wikipedia.org/wiki/Politics_of_Djibouti
-214,97,Government of Ethiopia,,,,,,,,,,,,,,1,,,,,,,,,,7360,85830,https://en.wikipedia.org/wiki/Government_of_Ethiopia
-215,98,Government of Eritrea,,,,,,,,,,,,,,1,,,,,,,,,,318,19093,https://en.wikipedia.org/wiki/Politics_of_Eritrea
-216,99,Government of Angola,,,,,,,,,,,,,,1,,,,,,,,,,3414,9084,https://en.wikipedia.org/wiki/Politics_of_Angola
-217,100,Government of Mozambique,,,,,,,,,,,,,,1,,,,,,,,,,502,3059,https://en.wikipedia.org/wiki/Politics_of_Mozambique
-218,101,Government of Rhodesia,,,,,,,,,,,,,,1,,,,,,,,,,522,0,https://en.wikipedia.org/wiki/Rhodesia
-219,102,Government of South Africa,,,,,,,,,,,,,,1,,,,,,,,,,836,0,https://en.wikipedia.org/wiki/Government_of_South_Africa
-220,104,Government of Lesotho,,,,,,,,,,,,,,1,,,,,,,,,,0,63,https://en.wikipedia.org/wiki/Politics_of_Lesotho
-221,1129,Republic of South Sudan,,,,,,,,,,,,,,,,,,,,,,,1,0,0,https://en.wikipedia.org/wiki/South_Sudan
-222,106,Government of Madagascar,,,,,,,,,,,,,,1,,,,,,,,,,92,0,https://en.wikipedia.org/wiki/Politics_of_Madagascar
-223,107,Government of Comoros,,,,,,,,,,,,,,1,,,,,,,,,,0,69,https://en.wikipedia.org/wiki/List_of_heads_of_government_of_the_Comoros
-224,108,Government of Morocco,,,,,,,,,,,,,,1,,,,,,,,,,0,207,https://en.wikipedia.org/wiki/President_of_the_Government_of_Morocco
-225,109,Government of Algeria,,,,,,,,,,,,,,1,,,,,,,,,,500,18327,https://en.wikipedia.org/wiki/Politics_of_Algeria
-226,111,Government of Libya,,,,,,,,,,,,,,1,,,,,,,,,,894,3189,https://en.wikipedia.org/wiki/Politics_of_Libya
-227,112,Government of Sudan,,,,,,,,,,,,,,1,,,,,,,,,,30128,28515,https://en.wikipedia.org/wiki/Politics_of_Sudan
-228,113,Government of South Sudan,,,,,,,,,,,,,,1,,,,,,,,,,3650,1185,https://en.wikipedia.org/wiki/Politics_of_South_Sudan
-229,114,Government of Iran,,,,,,,,,,,,,,1,,,,,,,,,,284,917,https://en.wikipedia.org/wiki/Politics_of_Iran
-230,115,Government of Turkey,,,,,,,,,,,,,,1,,,,,,,,,,1092,28009,https://en.wikipedia.org/wiki/Cabinet_of_Turkey
-231,116,Government of Iraq,,,,,,,,,,,,,,1,,,,,,,,,,19028,48890,https://en.wikipedia.org/wiki/Federal_government_of_Iraq
-232,117,Government of Egypt,,,,,,,,,,,,,,1,,,,,,,,,,104,1802,https://en.wikipedia.org/wiki/Politics_of_Egypt
-233,118,Government of Syria,,,,,,,,,,,,,,1,,,,,,,,,,28,0,https://en.wikipedia.org/wiki/Council_of_Ministers_(Syria)
-234,119,Government of Lebanon,,,,,,,,,,,,,,1,,,,,,,,,,266,716,https://en.wikipedia.org/wiki/Politics_of_Lebanon
-235,120,Government of Jordan,,,,,,,,,,,,,,1,,,,,,,,,,6,31,https://en.wikipedia.org/wiki/Politics_of_Jordan
-236,121,Government of Israel,,,,,,,,,,,,,,1,,,,,,,,,,4292,3956,https://en.wikipedia.org/wiki/Cabinet_of_Israel
-237,123,Government of North Yemen,,,,,,,,,,,,,,1,,,,,,,,,,5388,11023,https://en.wikipedia.org/wiki/Yemen_Arab_Republic
-238,125,Government of Kuwait,,,,,,,,,,,,,,1,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Government_of_Kuwait
-239,126,Government of Bahrain,,,,,,,,,,,,,,1,,,,,,,,,,52,0,https://en.wikipedia.org/wiki/Cabinet_of_Bahrain
-240,1151,Jalisco Cartel New Generation,,,,,,,,,,,,,,,,,,,,1,,,,10,91,https://en.wikipedia.org/wiki/Jalisco_New_Generation_Cartel
-241,1152,Independent Cartel of Acapulco,,,,,,,,,,,,,,,,,,,,1,,,,0,0,https://en.wikipedia.org/wiki/Independent_Cartel_of_Acapulco
-242,130,Government of Afghanistan,,,,,,,,,,,,,,1,,,,,,,,,,40036,108632,https://en.wikipedia.org/wiki/Politics_of_Afghanistan
-243,131,Government of Tajikistan,,,,,,,,,,,,,,1,,,,,,,,,,1184,3210,https://en.wikipedia.org/wiki/Politics_of_Tajikistan
-244,133,Government of Uzbekistan,,,,,,,,,,,,,,1,,,,,,,,,,20,553,https://en.wikipedia.org/wiki/Government_of_Uzbekistan
-245,135,Government of China,,,,,,,,,,,,,,1,,,,,,,,,,5334,58,https://en.wikipedia.org/wiki/Government_of_China
-246,1161,Movement for Unity and Jihad in West Africa,,,,,,,,,,,,,,,,,,1,,,,,,0,14,https://en.wikipedia.org/wiki/Movement_for_Oneness_and_Jihad_in_West_Africa
-247,1163,Garo National Liberation Army,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Insurgency_in_Northeast_India
-248,1164,Military faction (Red Berets),,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-249,141,Government of India,,,,,,,,,,,,,,1,,,,,,,,,,3614,34169,https://en.wikipedia.org/wiki/Government_of_India
-250,1166,Baloch Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Baluch_Liberation_Front
-251,143,Government of Bangladesh,,,,,,,,,,,,,,1,,,,,,,,,,350,386,https://en.wikipedia.org/wiki/Government_of_Bangladesh
-252,144,Government of Myanmar (Burma),,,,,,,,,,,,,,1,,,,,,,,,,9272,7828,https://en.wikipedia.org/wiki/Politics_of_Myanmar
-253,145,Government of Sri Lanka,,,,,,,,,,,,,,1,,,,,,,,,,16530,52562,https://en.wikipedia.org/wiki/Government_of_Sri_Lanka
-254,146,Government of Nepal,,,,,,,,,,,,,,1,,,,,,,,,,2494,5736,https://en.wikipedia.org/wiki/Government_of_Nepal
-255,147,Government of Thailand,,,,,,,,,,,,,,1,,,,,,,,,,258,1414,https://en.wikipedia.org/wiki/Government_of_Thailand
-256,148,Government of Cambodia,,,,,,,,,,,,,,1,,,,,,,,,,500,1458,https://en.wikipedia.org/wiki/Politics_of_Cambodia
-257,149,Government of Laos,,,,,,,,,,,,,,1,,,,,,,,,,272,66,https://en.wikipedia.org/wiki/Politics_of_Laos
-258,152,Government of Malaysia,,,,,,,,,,,,,,1,,,,,,,,,,4,36,https://en.wikipedia.org/wiki/Government_of_Malaysia
-259,6297,Republican Forces of Burundi,,,,,,,,,,,,,,,,,,,,,,,1,0,0,https://en.wikipedia.org/wiki/Popular_Forces_of_Burundi
-260,154,Government of Philippines,,,,,,,,,,,,,,1,,,,,,,,,,1546,14489,https://en.wikipedia.org/wiki/Government_of_the_Philippines
-261,155,Government of Indonesia,,,,,,,,,,,,,,1,,,,,,,,,,3596,2772,https://en.wikipedia.org/wiki/Government_of_Indonesia
-262,157,Government of Papua New Guinea,,,,,,,,,,,,,,1,,,,,,,,,,222,235,https://en.wikipedia.org/wiki/Politics_of_Papua_New_Guinea
-263,1185,People's Committee against Police Atrocities,,,,,,,,,,,,,,,,,1,,,,,,,292,0,"https://en.wikipedia.org/wiki/Scheduled_Caste_and_Scheduled_Tribe_(Prevention_of_Atrocities)_Act,_1989"
-264,1187,People's Liberation Front of India,,,,,,,,,,,,,,,1,,1,,,,,,,314,0,https://en.wikipedia.org/wiki/Eelam_People%27s_Revolutionary_Liberation_Front
-265,164,Republic of Kurdistan,,,,,,,,,,,,,,,,,,,,,,,1,0,0,https://en.wikipedia.org/wiki/Iraqi_Kurdistan
-266,369,People's United Liberation Front,,,,,,,,,,,,,,,1,,1,,,,,,,0,0,https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine
-267,6320,United Liberation Front of Western South East Asia,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/United_Liberation_Front_of_Western_South_East_Asia
-268,207,Palestinian National Liberation Movement,,,,,,,,,,,,,,,1,,,,,,,,,62,165,https://en.wikipedia.org/wiki/Fatah
-269,209,Islamic Resistance Movement,,,,,,,,,,,,,,,,,,1,,,,,,1014,0,https://en.wikipedia.org/wiki/Hamas
-270,3297,Los Zetas - Old School Zetas faction ,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Los_Zetas
-271,231,Supreme Council for the Islamic Revolution in Iraq,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/Islamic_Supreme_Council_of_Iraq
-272,233,Supporters of Islam,,,,,,,,,,,,,,,,,,1,,,,,,296,180,https://en.wikipedia.org/wiki/Islam
-273,234,The Monotheism and Jihad Group,,,,,,,,,,,,,,,,,,1,,,,,,33666,922,https://en.wikipedia.org/wiki/Jama%27at_al-Tawhid_wal-Jihad
-274,3323,The Zetas - Velazquez Caballero faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-275,3332,National Union of Road Transport Workers-Tokyo faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Japan)
-276,272,Khmer People’s National Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Khmer_People%27s_National_Liberation_Front
-277,281,People's Liberation Front,,,,,,,,,,,,,,,1,,1,,,,,,,514,0,https://en.wikipedia.org/wiki/Eritrean_People%27s_Liberation_Front
-278,285,People's Solidarity Association/Peace Force,,,,,,,,,,,,,,,,,1,,,,,,,504,0,https://en.wikipedia.org/wiki/World_Peace_Council
-279,292,Islamic Society of Afghanistan,,,,,,,,,,,,,,,,,,1,,,,,,186,133,https://en.wikipedia.org/wiki/Jamiat-e_Islami
-280,293,Harakat-i Inqilab-i Islami-yi Afghanistan ,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/Northern_Alliance
-281,294,Islamic Party of Afghanistan - Khalis faction,,,,,,,,,,,,,,,,,,1,1,,,,,0,0,https://en.wikipedia.org/wiki/Hezbi_Islami
-282,296,Mahaz-i Milli-yi Islami-yi Afghanistan ,,,,,,,,,,,,,,,,,,1,,,,,,0,0,
-283,297,Ittihad-i Islami Bara-yi Azadi-yi Afghanistan ,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/Islamic_Dawah_Organisation_of_Afghanistan
-284,299,Islamic Party of Afghanistan,,,,,,,,,,,,,,,,,,1,,,,,,62,271,https://en.wikipedia.org/wiki/Hezbi_Islami
-285,301,Military faction (forces of Shahnawaz Tanay),,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-286,302,National Islamic Movement,,,,,,,,,,,,,,,,,,1,,,,,,0,0,
-287,308,People's Mujahideen,,,,,,,,,,,,,,,,,1,,,,,,,0,0,https://en.wikipedia.org/wiki/People%27s_Mujahedin_of_Iran
-288,319,Sikh insurgents,,,,,,,,,,,,,,,,1,,,,,,,,2698,0,https://en.wikipedia.org/wiki/Khalistan_movement
-289,3296,Los Zetas - Cártel del Noreste faction,,,,,,,,,,,,,,,,,,,1,,,,,0,7,https://en.wikipedia.org/wiki/Los_Zetas
-290,322,Eelam People's Revolutionary Liberation Front,,,,,,,,,,,,,,,1,,1,,,,,,,6,84,https://en.wikipedia.org/wiki/Eelam_People%27s_Revolutionary_Liberation_Front
-291,325,Kashmir insurgents,,,,,,,,,,,,,,,,1,,,,,,,,6328,0,https://en.wikipedia.org/wiki/Insurgency_in_Jammu_and_Kashmir
-292,328,Balochistan Republican Army,,,,,,,,,,,,,,,,,,,,,,,1,0,0,https://en.wikipedia.org/wiki/Baloch_Republican_Army
-293,330,Republic of Armenia,,,,,,,,,,,,,,,,,,,,,,,1,0,0,https://en.wikipedia.org/wiki/Armenia
-294,343,South Ossetian Soviet Democratic Republic,,,,,,,,,,,,,,,,,,,,,,,1,0,0,
-295,336,Republic of Slovenia,,,,,,,,,,,,,,,,,,,,,,,1,0,0,https://en.wikipedia.org/wiki/Slovenia
-296,337,Republic of Croatia,,,,,,,,,,,,,,,,,,,,,,,1,74,222,https://en.wikipedia.org/wiki/Croatia
-297,6482,Sinaloa Cartel - Los Salazar faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,https://en.wikipedia.org/wiki/Sinaloa_Cartel
-298,339,Serbian Republic of Bosnia-Herzegovina,,,,,,,,,,,,,,,,,,,,,,,1,24888,0,https://en.wikipedia.org/wiki/Republic_of_Bosnia_and_Herzegovina
-299,340,Serbian Republic of Krajina,,,,,,,,,,,,,,,,,,,,,,,1,0,0,https://en.wikipedia.org/wiki/Republic_of_Serbian_Krajina
-300,6485,Sinaloa Cartel - Forces of Damaso faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,https://en.wikipedia.org/wiki/Sinaloa_Cartel
-301,6486,Sinaloa Cartel - Los 28 faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,https://en.wikipedia.org/wiki/Sinaloa_Cartel
-302,6487,Sinaloa Cartel - El Pepillo faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,
-303,344,Dniestr Republic,,,,,,,,,,,,,,,,,,,,,,,1,0,0,https://en.wikipedia.org/wiki/Transnistria
-304,347,Military faction (forces of Suret Husseinov),,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-305,350,Croatian Republic of Bosnia-Herzegovina,,,,,,,,,,,,,,,,,,,,,,,1,348,0,https://en.wikipedia.org/wiki/Republic_of_Bosnia_and_Herzegovina
-306,352,Chechen Republic of Ichkeria,,,,,,,,,,,,,,,,,,,,,,,1,522,26,https://en.wikipedia.org/wiki/Chechen_Republic_of_Ichkeria
-307,353,Democratic Republic of Yemen,,,,,,,,,,,,,,,,,,,,,,,1,0,0,https://en.wikipedia.org/wiki/Democratic_Republic_of_Yemen
-308,360,Jihad Islamic Group,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/Egyptian_Islamic_Jihad
-309,361,Kosovo Liberation Army,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Kosovo_Liberation_Army
-310,365,Patani insurgents,,,,,,,,,,,,,,,,1,,,,,,,,3742,0,https://en.wikipedia.org/wiki/Patani
-311,368,Dima Halam Daogah - Black Widow faction,,,,,,,,,,,,,,,,,,,1,,,,,122,0,https://en.wikipedia.org/wiki/Dima_Halam_Daogah
-312,5864,Taleban Movement of Pakistan - Khalid Mehsud faction,,,,,,,,,,,,,,,,,,,1,,,,,4,27,
-313,373,Bodo Liberation Tiger Force,,,,,,,,,,,,,,,1,,,,,,,,,156,0,https://en.wikipedia.org/wiki/Bodo_Liberation_Tigers_Force
-314,385,Islamic Community,,,,,,,,,,,,,,,,,,1,,,,,,498,0,https://en.wikipedia.org/wiki/Ummah
-315,4486,Gulf Cartel - Ramirez Treviño faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,https://en.wikipedia.org/wiki/Gulf_Cartel
-316,4487,Gulf Cartel - Villareal faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,
-317,393,Salafist Jihadists,,,,,,,,,,,,,,,,,,1,,,,,,68,0,https://en.wikipedia.org/wiki/Salafi_jihadism
-318,396,United People's Democratic Solidarity,,,,,,,,,,,,,,,,,1,,,,,,,172,0,https://en.wikipedia.org/wiki/United_People%27s_Democratic_Solidarity
-319,6481,Sinaloa Cartel - Los Memos faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,
-320,398,Supporters of Islam,,,,,,,,,,,,,,,,,,1,,,,,,2,201,https://en.wikipedia.org/wiki/Islam
-321,4499,Government of Solomon Islands,,,,,,,,,,,,,,1,,,,,,,,,,6,34,https://en.wikipedia.org/wiki/Solomon_Islands
-322,413,Military faction (forces of Amsha Desta and Merid Negusie),,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-323,1046,Partisans of Islam,,,,,,,,,,,,,,,,,,1,,,,,,106,0,https://en.wikipedia.org/wiki/Shia_Islam
-324,6573,Los Zetas - Jorge Ivan Hernandez Cantu faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Los_Zetas
-325,6574,Los Zetas - Juan Pedro Salvador Saldivar Farias faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-326,432,Party for the Liberation of the Hutu People-Forces for National Liberation,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/National_Forces_of_Liberation
-327,433,National Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/National_Liberation_Front_(Algeria)
-328,442,Islamic Legion,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/Islamic_Legion
-329,444,Movement for the National Salvation of Chad,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Patriotic_Salvation_Movement
-330,445,Patriotic Salvation Movement,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Patriotic_Salvation_Movement
-331,449,Military faction (forces of Maldoum Bada Abbas),,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-332,451,Armed Forces of the Federal Republic,,,,,,,,,,,,,,,,,,,,,,,1,104,0,https://en.wikipedia.org/wiki/Republic_of_Yemen_Armed_Forces
-333,697,United Liberation Movement for Democracy in Liberia,,,,,,,,,,,,,,,1,,,,,,,,,7704,56,https://en.wikipedia.org/wiki/United_Liberation_Movement_of_Liberia_for_Democracy
-334,1101,Taleban Movement of Pakistan - Tariq Afridi faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-335,1103,Taleban Movement of Pakistan - Mullah Toofan faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-336,1104,Warriors of Jihad,,,,,,,,,,,,,,,,,,1,,,,,,220,0,https://en.wikipedia.org/wiki/Jihad
-337,3554,Popular Front for Reconstruction - Baba Lade faction,,,,,,,,,,,,,,,,,,,1,,,,,198,0,
-338,3555,Christians (CAR),,,,,,,,,,,,,,,,,,,,,,1,,152,93,https://en.wikipedia.org/wiki/History_of_the_automobile
-339,3556,Muslims (CAR),,,,,,,,,,,,,,,,,,,,,1,,,0,0,https://en.wikipedia.org/wiki/Islam_in_the_United_Kingdom
-340,488,Uganda Democratic Christian Army,,,,,,,,,,,,,,,,,,,,,,1,,15414,487,https://en.wikipedia.org/wiki/Lord%27s_Resistance_Army
-341,495,Eritrean Islamic Jihad Movement - Abu Suhail faction,,,,,,,,,,,,,,,,,,1,1,,,,,0,0,
-342,499,Somali Salvation Democratic Front,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Somali_Salvation_Democratic_Front
-343,505,Supreme Islamic Council of Somalia,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/Islamic_Courts_Union
-344,521,Popular Movement for the Liberation of Azawad,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/People%27s_Movement_for_the_Liberation_of_Azawad
-345,522,Islamic Arab Front of Azawad,,,,,,,,,,,,,,,,,,1,,,,,,196,0,https://en.wikipedia.org/wiki/Arab_Islamic_Front_of_Azawad
-346,523,May 23 Democratic Alliance for Change - Ibrahim Bahanga faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-347,524,Aїr and Azawad Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,0,0,
-348,531,Front for the Restoration of Unity and Democracy - Ahmed Dini faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Front_for_the_Restoration_of_Unity_and_Democracy
-349,430,Party for the Liberation of the Hutu People,,,,,,,,,,,,,,,1,,,,,,,,,954,26,https://en.wikipedia.org/wiki/National_Forces_of_Liberation
-350,537,Armed Islamic Movement,,,,,,,,,,,,,,,,,,1,,,,,,0,16,https://en.wikipedia.org/wiki/Islamic_Jihad_Movement_in_Palestine
-351,538,Armed Islamic Group,,,,,,,,,,,,,,,,,,1,,,,,,2984,0,https://en.wikipedia.org/wiki/Armed_Islamic_Group_of_Algeria
-352,542,Islamic Unity,,,,,,,,,,,,,,,,,,1,,,,,,0,602,https://en.wikipedia.org/wiki/Islamic_Unity_of_Afghanistan_Mujahideen
-353,544,Anjouan People’s Movement/Republic of Anjouan,,,,,,,,,,,,,,,,,,,,,,,1,6,7,https://en.wikipedia.org/wiki/Comoros
-354,1115,Issa and Gurgura Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Issa_and_Gurgura_Liberation_Front
-355,550,Military faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-356,552,Military faction (forces of André Kolingba),,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-357,5895,Army of Islam,,,,,,,,,,,,,,,,,,1,,,,,,70,0,
-358,6711,Donetsk People's Republic,,,,,,,,,,,,,,,,,1,,,,,,1,0,0,https://en.wikipedia.org/wiki/Donetsk_People%27s_Republic
-359,6712,Lugansk People's Republic,,,,,,,,,,,,,,,,,1,,,,,,1,0,0,https://en.wikipedia.org/wiki/Luhansk_People%27s_Republic
-360,580,Supporters of All Nigeria People's Party,,,,,,,,,,,,,,,,,1,,,,,,,4,55,https://en.wikipedia.org/wiki/People%27s_Redemption_Party
-361,6726,Government of Macedonia,,,,,,,,,,,,,,1,,,,,,,,,,22,64,https://en.wikipedia.org/wiki/Politics_of_the_Republic_of_Macedonia
-362,6740,Government of Australia,,,,,,,,,,,,,,1,,,,,,,,,,868,802,https://en.wikipedia.org/wiki/Government_of_Australia
-363,603,People's Armed Forces of Congo,,,,,,,,,,,,,,,,,1,,,,,,,150,47,https://en.wikipedia.org/wiki/Armed_Forces_of_the_Republic_of_the_Congo
-364,605,New Forces - Ibrahim Coulibaly faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Ibrahim_Coulibaly
-365,6252,Taleban - Mohamed Rasool faction,,,,,,,,,,,,,,,,,,,1,,,,,0,56,
-366,650,Movement of the Democratic Forces of the Casamance - Northern Front Magne Diémé faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-367,2699,Muslims (Myanmar),,,,,,,,,,,,,,,,,,,,,1,,,0,0,https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar
-368,1133,Muslims (Egypt),,,,,,,,,,,,,,,,,,,,,1,,,0,0,
-369,668,Supporters of People's Democratic Party,,,,,,,,,,,,,,,,,1,,,,,,,0,31,https://en.wikipedia.org/wiki/People%27s_Democratic_Party_of_Afghanistan
-370,673,Federalist Republican Forces,,,,,,,,,,,,,,,,,,,,,,,1,0,20,https://en.wikipedia.org/wiki/Federalist_Party
-371,674,Congolese Rally for Democracy - Laurent Nkunda faction,,,,,,,,,,,,,,,,,,,1,,,,,278,0,https://en.wikipedia.org/wiki/Rally_for_Congolese_Democracy%E2%80%93Goma
-372,675,Republic of Somaliland,,,,,,,,,,,,,,,,,,,,,,,1,0,0,https://en.wikipedia.org/wiki/Somaliland
-373,677,Rahanweyn Resistance Army - Madobe and Habsade faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Rahanweyn_Resistance_Army
-374,686,Somali Salvation Democratic Front,,,,,,,,,,,,,,,1,,,,,,,,,4614,206,https://en.wikipedia.org/wiki/Somali_Salvation_Democratic_Front
-375,695,United Liberation Movement for Democracy in Liberia - Roosevelt Johnson faction,,,,,,,,,,,,,,,1,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/United_Liberation_Movement_of_Liberia_for_Democracy
-376,696,United Liberation Movement for Democracy in Liberia - Alhaji Kromah faction,,,,,,,,,,,,,,,1,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/United_Liberation_Movement_of_Liberia_for_Democracy
-377,5817,Maidan People's Council,,,,,,,,,,,,,,,,,1,,,,,,,0,0,https://en.wikipedia.org/wiki/Maidan_People%27s_Union
-378,698,"United Somalia Congress/Somali Salvation Alliance - Omar Mohamed Mohamud ""Finish"" faction",,,,,,,,,,,,,,,1,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Omar_Muhamoud_Finnish
-379,4456,Syrian insurgents,,,,,,,,,,,,,,,,1,,,,,,,,0,0,
-380,2765,Supporters of Jamaat-e-Islami,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/Jamaat-e-Islami_Pakistan
-381,724,Military faction (forces of Andres Rodriguez),,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-382,6267,Macina Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Macina_Liberation_Front
-383,744,National Liberation Army,,,,,,,,,,,,,,,1,,,,,,,,,554,0,https://en.wikipedia.org/wiki/Zapatista_Army_of_National_Liberation
-384,5865,Taleban Movement of Pakistan - Shehryar Mehsud faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-385,746,People’s Liberation Army,,,,,,,,,,,,,,,1,,,,,,,,,0,0,
-386,762,Muslim Society,,,,,,,,,,,,,,,,,,,,,1,,,0,0,https://en.wikipedia.org/wiki/Muslim_society_%E2%84%963
-387,765,National Front for the Liberation of Haiti,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/National_Revolutionary_Front_for_the_Liberation_of_Haiti
-388,774,Medellín Cartel,,,,,,,,,,,,,,,,,,,,1,,,,314,45,https://en.wikipedia.org/wiki/Medell%C3%ADn_Cartel
-389,775,Sinaloa Cartel,,,,,,,,,,,,,,,,,,,,1,,,,22,35,https://en.wikipedia.org/wiki/Sinaloa_Cartel
-390,782,Gulf Cartel,,,,,,,,,,,,,,,,,,,,1,,,,28,174,https://en.wikipedia.org/wiki/Gulf_Cartel
-391,784,Madhesi People's Rights Forum,,,,,,,,,,,,,,,,,1,,,,,,,0,0,"https://en.wikipedia.org/wiki/Madhesi_Jana_Adhikar_Forum,_Nepal"
-392,786,Party for the Liberation of the Hutu People-Forces for National Liberation - Lovers of Peace faction,,,,,,,,,,,,,,,1,,,,1,,,,,0,0,
-393,788,Jubba Valley Alliance faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-394,793,Juarez Cartel,,,,,,,,,,,,,,,,,,,,1,,,,44,51,https://en.wikipedia.org/wiki/Ju%C3%A1rez_Cartel
-395,799,Tijuana Cartel,,,,,,,,,,,,,,,,,,,,1,,,,0,9,https://en.wikipedia.org/wiki/Tijuana_Cartel
-396,800,Tijuana Cartel - El Teo faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,https://en.wikipedia.org/wiki/Tijuana_Cartel
-397,801,Unity Party - Akbari faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-398,804,Biplobi Communist Party,,,,,,,,,,,,,,,,,1,,,,,,,0,22,
-399,805,East Bengal Communist Party,,,,,,,,,,,,,,,,,1,,,,,,,0,0,https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist)
-400,810,Cali Cartel,,,,,,,,,,,,,,,,,,,,1,,,,0,13,https://en.wikipedia.org/wiki/Cali_Cartel
-401,817,Jammu and Kashmir Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Jammu_Kashmir_Liberation_Front
-402,823,Islamic Movement of Kurdistan,,,,,,,,,,,,,,,,,,1,,,,,,0,65,https://en.wikipedia.org/wiki/Kurdistan_Islamic_Movement
-403,825,Supporters of People's National Party,,,,,,,,,,,,,,,,,1,,,,,,,0,0,https://en.wikipedia.org/wiki/German_National_People%27s_Party
-404,827,Surinamese Liberation Army,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Jungle_Commando
-405,831,Mongko Defence Army - Lin Min faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-406,651,Movement of the Democratic Forces of the Casamance - Salif Sadio faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Casamance_conflict
-407,842,Provisional Council of the Chechen Republic,,,,,,,,,,,,,,,,,,,,,,,1,0,0,https://en.wikipedia.org/wiki/Chechen_Republic_of_Ichkeria
-408,843,Republic of Georgia,,,,,,,,,,,,,,,,,,,,,,,1,0,34,https://en.wikipedia.org/wiki/Georgian_Soviet_Socialist_Republic
-409,844,People's Liberation Organisation of Tamil Eelam,,,,,,,,,,,,,,,1,,1,,,,,,,0,0,https://en.wikipedia.org/wiki/People%27s_Liberation_Organisation_of_Tamil_Eelam
-410,845,Republic of Bosnia-Herzegovina,,,,,,,,,,,,,,,,,,,,,,,1,0,44,https://en.wikipedia.org/wiki/Republic_of_Bosnia_and_Herzegovina
-411,142,Government of Pakistan,,,,,,,,,,,,,,1,,,,,,,,,,2480,18963,https://en.wikipedia.org/wiki/Government_of_Pakistan
-412,856,Taleban - Ali Dad faction,,,,,,,,,,,,,,,,,,,1,,,,,0,30,
-413,857,Taleban - Mola Khel faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-414,859,Muslims (India),,,,,,,,,,,,,,,,,,,,,1,,,0,0,
-415,860,Christians (Indonesia),,,,,,,,,,,,,,,,,,,,,,1,,0,110,https://en.wikipedia.org/wiki/Indonesia
-416,861,Muslims (Indonesia),,,,,,,,,,,,,,,,,,,,,1,,,0,0,https://en.wikipedia.org/wiki/Islam_in_Indonesia
-417,872,Christians (Philippines),,,,,,,,,,,,,,,,,,,,,,1,,0,48,https://en.wikipedia.org/wiki/Philippines
-418,873,Muslims (Philippines),,,,,,,,,,,,,,,,,,,,,1,,,0,0,https://en.wikipedia.org/wiki/Islam_in_the_Philippines
-419,875,Supporters of People's Alliance,,,,,,,,,,,,,,,,,1,,,,,,,4,3,https://en.wikipedia.org/wiki/People%27s_Alliance_(Spain)
-420,6002,Gulf Cartel - Los Fresitas faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,
-421,6003,Gulf Cartel - Dragones de Sheyla faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,
-422,885,Hmar People's Convention,,,,,,,,,,,,,,,,,1,,,,,,,60,0,https://en.wikipedia.org/wiki/Hmar_People%27s_Convention
-423,6007,Sinaloa Cartel - Los Salgueiro faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,
-424,6008,Sinaloa Cartel - Los Chavez Matamoros faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,
-425,3968,Bru National Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,0,74,https://en.wikipedia.org/wiki/Insurgency_in_Northeast_India
-426,903,Armed Islamic Group - Covenant Battalion,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/British_Armed_Forces
-427,904,Armed Islamic Group - Holy Quran Battalion,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant
-428,3981,National Union of Road Transport Workers-Auxiliary faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Red_Army_Faction
-429,913,Anjouan People’s Movement - Said Omar Chamassi faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,
-430,1178,Tawheed ul-Islam ,,,,,,,,,,,,,,,,,,1,,,,,,0,0,
-431,4004,Muslims (Sri Lanka),,,,,,,,,,,,,,,,,,,,,1,,,0,10,https://en.wikipedia.org/wiki/Sri_Lankan_Moors
-432,5999,Union for Peace in the Central African Republic (,,,,,,,,,,,,,,,,,,,,,,,1,248,0,https://en.wikipedia.org/wiki/Central_African_Republic
-433,5965,Palaung State Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Palaung_State_Liberation_Front
-434,998,Sudan People's Liberation Movement/Army - William Nyuon faction,,,,,,,,,,,,,,,1,,1,,1,,,,,0,0,https://en.wikipedia.org/wiki/Sudan_People%27s_Liberation_Army
-435,3047,Taleban Movement of Pakistan - Islahi faction,,,,,,,,,,,,,,,,,,,1,,,,,82,0,
-436,1004,Islamic Party,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/List_of_Islamic_political_parties
-437,338,Republic of Nagorno-Karabakh,,,,,,,,,,,,,,,,,,,,,,,1,322,0,https://en.wikipedia.org/wiki/Republic_of_Artsakh
-438,6137,Military faction (forces of Nicolae Ceausescu),,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu
-439,1020,Christians (Nigeria),,,,,,,,,,,,,,,,,,,,,,1,,96,2160,https://en.wikipedia.org/wiki/Religion_in_Nigeria
-440,1021,Muslims (Nigeria),,,,,,,,,,,,,,,,,,,,,1,,,0,0,https://en.wikipedia.org/wiki/Islam_in_Nigeria
-441,341,Islamic Group,,,,,,,,,,,,,,,,,,1,,,,,,414,0,https://en.wikipedia.org/wiki/Al-Jama%27a_al-Islamiyya
+,id,name,countries,region,designated_terrorist,current_terrorist,former_terrorist,left_wing,successful_left,failed_left,former_left,guerilla,rebel,rebel_with,rebel_without,govs,liberation_movements,insurgents,communists,islamists,factions,cartels,muslims,christians,republics,civilian_deaths,total_deaths,url,begin,end
+0,768,Popular Revolutionary Army,['Mexico'],Latin America,,,,1,,,,1,1,0,1,,,,,,,,,,,4,24,https://en.wikipedia.org/wiki/Popular_Revolutionary_Army,1996,1998
+1,513,African National Congress,['South Africa'],,1,1,0,1,1,0,,,,,,,,,,,,,,,,93,0,https://en.wikipedia.org/wiki/African_National_Congress,1990,1994
+2,258,Maoist Communist Party,['Turkey'],Middle East,,,,1,,,,1,1,0,1,,,,,,,,,,,1302,1814,https://en.wikipedia.org/wiki/Communist_Party_of_India_(Maoist),1996,2009
+3,771,United Self-Defense Forces of Colombia,,,1,1,0,,,,,,,,,,,,,,,,,,,3455,589,https://en.wikipedia.org/wiki/United_Self-Defense_Forces_of_Colombia,1989,2007
+4,6742,Communist Party of Malaya,,Asia,,,,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Malayan_Communist_Party,1999,1999
+5,5822,Raia Mutomboki,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,30,0,,2014,2014
+6,4359,Army of the Men of the Naqshbandi Order,['Iraq'],,1,1,0,1,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Army_of_the_Men_of_the_Naqshbandi_Order,2014,2014
+7,520,Afar Revolutionary Democratic Unity Front,['Ethiopia'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Afar_Revolutionary_Democratic_Unity_Front,1996,1996
+8,290,Revolutionary Front of Independent East Timor,,Asia,,,,,,,,1,,,,,,,,,,,,,,7,136,https://en.wikipedia.org/wiki/Fretilin,1992,1999
+9,528,Democratic Forces for the Liberation of Rwanda,,Africa,,,,,,,,1,,,,,,,,,,,,,,1684,329,https://en.wikipedia.org/wiki/Democratic_Forces_for_the_Liberation_of_Rwanda,2001,2016
+10,4369,Ansar al-Sharia (Libya),,,1,1,0,,,,,,,,,,,,,,,,,,,93,476,https://en.wikipedia.org/wiki/Ansar_al-Sharia_(Libya),2014,2016
+11,275,Moro National Liberation Front,['Philippines'],Asia,,,,1,,,,1,1,0,1,,,,,,,,,,,24,85,https://en.wikipedia.org/wiki/Moro_National_Liberation_Front,1989,2009
+12,276,Moro Islamic Liberation Front,['Philippines'],Asia,,,,,,,,1,1,0,1,,,,,,,,,,,513,587,https://en.wikipedia.org/wiki/Moro_Islamic_Liberation_Front,1990,2016
+13,277,Abu Sayyaf,"['Philippines', 'International']",Asia,1,1,0,,,,,1,1,0,1,,,,,,,,,,,449,664,https://en.wikipedia.org/wiki/Abu_Sayyaf,1992,2016
+14,275,Moro National Liberation Front,['Philippines'],Asia,,,,1,,,,1,1,0,1,,,,,,,,,,,24,85,https://en.wikipedia.org/wiki/Moro_National_Liberation_Front,1989,2009
+15,1047,Indian Mujahideen,['India'],,1,1,0,,,,,,1,0,1,,,,,,,,,,,500,0,https://en.wikipedia.org/wiki/Indian_Mujahideen,2003,2013
+16,225,Karenni National Progressive Party,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,5,475,https://en.wikipedia.org/wiki/Karenni_National_Progressive_Party,1989,2012
+17,1086,African National Congress,['South Africa'],,1,1,0,1,1,0,,,,,,,,,,,,,,,,274,426,https://en.wikipedia.org/wiki/African_National_Congress,1989,2016
+18,282,Provisional Irish Republican Army,['United Kingdom'],Europe,1,1,0,1,,,1,1,,,,,,,,,,,,,,12,121,https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army,1989,1997
+19,283,Real Irish Republican Army,['United Kingdom'],,1,1,0,1,,,,,,,,,,,,,,,,,,29,3,https://en.wikipedia.org/wiki/Real_Irish_Republican_Army,1998,2011
+20,540,Front for the Liberation of the Enclave of Cabinda,['Angola'],,,,,,,,,,1,0,1,,,,,,,,,,,0,36,https://en.wikipedia.org/wiki/Front_for_the_Liberation_of_the_Enclave_of_Cabinda,1991,2005
+21,1053,Convention of Patriots for Justice and Peace,['Central African Republic'],,,,,,,,,,1,0,1,,,,,,,,,,,4,18,https://en.wikipedia.org/wiki/Convention_of_Patriots_for_Justice_and_Peace,2009,2011
+22,223,National Socialist Council of Nagaland,['India'],,,,,1,,,,,1,0,1,,,,,,,,,,,530,438,https://en.wikipedia.org/wiki/National_Socialist_Council_of_Nagaland,1989,2016
+23,287,Balochistan Liberation Army,['Pakistan'],Asia,1,1,0,,,,,1,1,0,1,,,,,,,,,,,176,243,https://en.wikipedia.org/wiki/Balochistan_Liberation_Army,2004,2016
+24,289,Baloch Republican Army,['Pakistan'],,,,,,,,,,1,0,1,,,,,,,,,,,14,152,https://en.wikipedia.org/wiki/Baloch_Republican_Army,2007,2016
+25,546,Ninjas,['Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,6,32,https://en.wikipedia.org/wiki/Ninja,1993,1999
+26,551,Oromo Liberation Front,['Ethiopia'],Africa,,,,,,,,1,1,0,1,,,,,,,,,,,72,918,https://en.wikipedia.org/wiki/Oromo_Liberation_Front,1989,2016
+27,554,Union of Democratic Forces for Unity,['Central African Republic'],,,,,,,,,,1,0,1,,,,,,,,,,,0,23,https://en.wikipedia.org/wiki/Union_of_Democratic_Forces_for_Unity,2006,2011
+28,562,Niger Movement for Justice,,Africa,,,,,,,,1,,,,,,,,,,,,,,6,82,https://en.wikipedia.org/wiki/Niger_Movement_for_Justice,2007,2008
+29,560,Niger Delta People's Volunteer Force,['Nigeria'],,,,,,,,,,1,0,1,,,,,,,,,,,18,9,https://en.wikipedia.org/wiki/Niger_Delta_People%27s_Volunteer_Force,2004,2009
+30,306,All Tripura Tiger Force,,,1,1,0,,,,,,,,,,,,,,,,,,,289,97,https://en.wikipedia.org/wiki/All_Tripura_Tiger_Force,1992,2008
+31,307,National Liberation Front of Tripura,,,1,1,0,,,,,,,,,,,,,,,,,,,464,296,https://en.wikipedia.org/wiki/National_Liberation_Front_of_Tripura,1992,2014
+32,5940,Zintan Brigade,['Libya'],,,,,,,,,,1,0,1,,,,,,,,,,,98,47,https://en.wikipedia.org/wiki/Zintan_Brigades,2014,2014
+33,309,Kurdistan Free Life Party,['Iran'],Middle East,,,,1,,,,1,1,0,1,,,,,,,,,,,16,157,https://en.wikipedia.org/wiki/Kurdistan_Free_Life_Party,2005,2016
+34,567,National Union for the Total Independence of Angola,,Africa,,,,,,,,1,,,,,,,,,,,,,,3867,1284,https://en.wikipedia.org/wiki/UNITA,1989,2013
+35,982,Catalan Red Liberation Army,['Spain'],Europe,,,,1,0,1,,1,,,,,,,,,,,,,,0,7,https://en.wikipedia.org/wiki/Catalan_Red_Liberation_Army,1994,1998
+36,314,People's Liberation Army,['China'],,,,,1,1,0,,,,,,,,,,,,,,,,16,112,https://en.wikipedia.org/wiki/People%27s_Liberation_Army,1992,2015
+37,315,United National Liberation Front,,,1,1,0,,,,,,,,,,,,,,,,,,,23,144,https://en.wikipedia.org/wiki/United_National_Liberation_Front,1993,2014
+38,769,al-Qaeda,"['Syria', 'Mali']",,1,1,0,,,,,,1,0,1,,,,,,,,,,,3320,268,https://en.wikipedia.org/wiki/Al-Qaeda,2001,2016
+39,317,Kangleipak Communist Party,,,1,1,0,,,,,,,,,,,,,,,,,,,15,2,https://en.wikipedia.org/wiki/Kangleipak_Communist_Party,1997,2012
+40,318,People's Revolutionary Party of Kangleipak,,,1,1,0,,,,,,,,,,,,,,,,,,,6,9,https://en.wikipedia.org/wiki/People%27s_Revolutionary_Party_of_Kangleipak,1999,2010
+41,320,Liberation Tigers of Tamil Eelam,,Asia,1,1,0,,,,,1,,,,,,,,,,,,,,9891,14683,https://en.wikipedia.org/wiki/Liberation_Tigers_of_Tamil_Eelam,1989,2009
+42,223,National Socialist Council of Nagaland,['India'],,,,,1,,,,,1,0,1,,,,,,,,,,,530,438,https://en.wikipedia.org/wiki/National_Socialist_Council_of_Nagaland,1989,2016
+43,323,Kurdistan Workers' Party,"['Turkey', 'International']",Middle East,1,1,0,1,,,,1,1,0,1,,,,,,,,,,,1604,5621,https://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party,1989,2016
+44,326,United Liberation Front of Assam,['India'],,1,1,0,,,,,,1,0,1,,,,,,,,,,,615,283,https://en.wikipedia.org/wiki/United_Liberation_Front_of_Assam,1989,2016
+45,327,Free Aceh Movement,['Indonesia'],Asia,,,,,,,,1,1,0,1,,,,,,,,,,,381,412,https://en.wikipedia.org/wiki/Free_Aceh_Movement,1989,2008
+46,329,Lebanese National Movement,['Lebanon'],,,,,1,0,1,,,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Lebanese_National_Movement,1989,1989
+47,761,Military,"['Iraq', 'Syria']",,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Military,1989,1989
+48,469,Sudan Liberation Movement/Army,['Sudan'],Africa,,,,,,,,1,1,0,1,,,,,,,,,,,459,3578,https://en.wikipedia.org/wiki/Sudan_Liberation_Movement/Army,2003,2011
+49,334,Revolutionary Left Movement,['Chile'],Latin America,,,,1,,,1,1,,,,,,,,,,,,,,6,65,,1990,1995
+50,335,Maoist Communist Party,['Turkey'],Middle East,,,,1,,,,1,1,0,1,,,,,,,,,,,0,2,https://en.wikipedia.org/wiki/Communist_Party_of_India_(Maoist),2005,2005
+51,1107,Democratic Karen Buddhist Army,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,11,135,https://en.wikipedia.org/wiki/Democratic_Karen_Buddhist_Army,2010,2015
+52,6741,Forest Brothers,,Europe,,,,,,,,1,,,,,,,,,,,,,,20,16,https://en.wikipedia.org/wiki/Forest_Brothers,1998,1998
+53,563,Popular Front for the Liberation of Saguia el Hamra and Rio de Oro,,Africa,,,,,,,,1,,,,,,,,,,,,,,0,80,https://en.wikipedia.org/wiki/Polisario_Front,1989,1991
+54,826,Fatah Revolutionary Council,['Palestine'],,,,,,,,,,1,0,1,,,,,,,,,,,0,1,https://en.wikipedia.org/wiki/Abu_Nidal_Organization,1989,1990
+55,607,Fulani herdsmen,['Nigeria'],,,,,,,,,,1,0,1,,,,,,,,,,,80,1753,https://en.wikipedia.org/wiki/Fulani_herdsmen,1996,2016
+56,1122,Shan State Progressive Party,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,7,100,https://en.wikipedia.org/wiki/Shan_State_Army_-_North,2006,2016
+57,1123,Sudan People's Liberation Movement-North,['Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,55,18,https://en.wikipedia.org/wiki/Sudan_People%27s_Liberation_Movement,2011,2011
+58,1124,Sudan Liberation Movement/Army,['Sudan'],Africa,,,,,,,,1,1,0,1,,,,,,,,,,,47,180,https://en.wikipedia.org/wiki/Sudan_Liberation_Movement/Army,2011,2012
+59,357,Kosovo Liberation Army,,Europe,,,,,,,,1,,,,,,,,,,,,,,588,816,https://en.wikipedia.org/wiki/Kosovo_Liberation_Army,1996,1999
+60,785,Democratic Karen Buddhist Army,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,12,31,https://en.wikipedia.org/wiki/Democratic_Karen_Buddhist_Army,1994,2008
+61,1128,Army for the Liberation of Rwanda,,Africa,,,,,,,,1,,,,,,,,,,,,,,3592,71,https://en.wikipedia.org/wiki/Army_for_the_Liberation_of_Rwanda,1996,2001
+62,1130,Free Syrian Army,['Syria'],,,,,,,,,,1,0,1,,,,,,,,,,,0,1,https://en.wikipedia.org/wiki/Free_Syrian_Army,2013,2013
+63,359,Islamic Movement of Uzbekistan,"['Pakistan', 'Afghanistan', 'International', 'Uzbekistan']",,1,1,0,,,,,,1,0,1,,,,,,,,,,,18,428,https://en.wikipedia.org/wiki/Islamic_Movement_of_Uzbekistan,1999,2014
+64,364,United Wa State Army,"['Myanmar (Burma)', 'Myanmar']",,,,,,,,,,1,0,1,,,,,,,,,,,4,120,https://en.wikipedia.org/wiki/United_Wa_State_Army,1990,2015
+65,1645,Democratic Front of the Central African People,['Central African Republic'],,,,,,,,,,1,0,1,,,,,,,,,,,39,0,https://en.wikipedia.org/wiki/Democratic_Front_of_the_Central_African_People,2015,2015
+66,879,Progressive Socialist Party,['Lebanon'],,,,,1,0,1,1,,,,,,,,,,,,,,,0,19,https://en.wikipedia.org/wiki/Progressive_Socialist_Party,1989,2008
+67,880,Myanmar National Democratic Alliance Army,['Myanmar'],,,,,1,,,,,,,,,,,,,,,,,,14,282,https://en.wikipedia.org/wiki/Myanmar_National_Democratic_Alliance_Army,2009,2015
+68,881,Al-Qaeda in the Arabian Peninsula,['Yemen'],,,,,,,,,,1,0,1,,,,,,,,,,,248,2342,https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Arabian_Peninsula,2009,2016
+69,3955,Communist Party of India (Marxist–Leninist),,,1,1,0,,,,,,,,,,,,,,,,,,,0,10,https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist%E2%80%93Leninist),2000,2000
+70,628,Janjaweed,,Africa,,,,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Janjaweed,2005,2005
+71,6718,Military,"['Iraq', 'Syria']",,,,,,,,,,1,0,1,,,,,,,,,,,111,51,https://en.wikipedia.org/wiki/Military,1998,1999
+72,630,Janjaweed,,Africa,,,,,,,,1,,,,,,,,,,,,,,2952,6,https://en.wikipedia.org/wiki/Janjaweed,2001,2010
+73,489,Alliance of Democratic Forces for the Liberation of Congo-Zaire,,Africa,,,,,,,,1,,,,,,,,,,,,,,1660,515,https://en.wikipedia.org/wiki/Alliance_of_Democratic_Forces_for_the_Liberation_of_Congo,1996,2016
+74,5826,National Democratic Front of Bodoland,,Asia,1,1,0,,,,,1,,,,,,,,,,,,,,145,6,https://en.wikipedia.org/wiki/National_Democratic_Front_of_Boroland,2013,2015
+75,1146,Bangsamoro Islamic Freedom Fighters,['Philippines'],,,,,,,,,,1,0,1,,,,,,,,,,,9,97,https://en.wikipedia.org/wiki/Bangsamoro_Islamic_Freedom_Fighters,2011,2016
+76,307,National Liberation Front of Tripura,,,1,1,0,,,,,,,,,,,,,,,,,,,464,296,https://en.wikipedia.org/wiki/National_Liberation_Front_of_Tripura,1992,2014
+77,541,Front for the Liberation of the Enclave of Cabinda,['Angola'],,,,,,,,,,1,0,1,,,,,,,,,,,34,91,https://en.wikipedia.org/wiki/Front_for_the_Liberation_of_the_Enclave_of_Cabinda,1992,2016
+78,3946,Communist Party of India (Marxist–Leninist),,,1,1,0,,,,,,,,,,,,,,,,,,,3,1,https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist%E2%80%93Leninist),1999,2008
+79,223,National Socialist Council of Nagaland,['India'],,,,,1,,,,,1,0,1,,,,,,,,,,,530,438,https://en.wikipedia.org/wiki/National_Socialist_Council_of_Nagaland,1989,2016
+80,3967,Mai Mai Kata Katanga,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,198,28,https://en.wikipedia.org/wiki/Mai-Mai_Kata_Katanga,2011,2016
+81,4226,Sudan People's Liberation Movement-in-Opposition,,Africa,,,,,,,,1,,,,,,,,,,,,,,1189,402,https://en.wikipedia.org/wiki/Sudan_People%27s_Liberation_Movement-in-Opposition,2013,2016
+82,3563,South Sudan Democratic Movement,['South Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,0,12,https://en.wikipedia.org/wiki/South_Sudan_Democratic_Movement,2013,2013
+83,1156,East Turkestan Islamic Movement,['China'],,,,,,,,,,1,0,1,,,,,,,,,,,0,27,https://en.wikipedia.org/wiki/Turkistan_Islamic_Party,1990,2008
+84,320,Liberation Tigers of Tamil Eelam,,Asia,1,1,0,,,,,1,,,,,,,,,,,,,,9891,14683,https://en.wikipedia.org/wiki/Liberation_Tigers_of_Tamil_Eelam,1989,2009
+85,1158,National Movement for the Liberation of Azawad,['Mali'],,,,,,,,,,1,0,1,,,,,,,,,,,5,213,https://en.wikipedia.org/wiki/National_Movement_for_the_Liberation_of_Azawad,2012,2016
+86,4233,Arab Democratic Party,['Lebanon'],,,,,1,0,1,,,,,,,,,,,,,,,,47,0,,2013,2013
+87,1162,Sudan Revolutionary Front,['Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,1015,857,https://en.wikipedia.org/wiki/Sudan_Revolutionary_Front,2011,2016
+88,275,Moro National Liberation Front,['Philippines'],Asia,,,,1,,,,1,1,0,1,,,,,,,,,,,24,85,https://en.wikipedia.org/wiki/Moro_National_Liberation_Front,1989,2009
+89,194,Maoist Communist Centre of India,,,1,1,0,,,,,,,,,,,,,,,,,,,176,212,https://en.wikipedia.org/wiki/Maoist_Communist_Centre_of_India,1992,2004
+90,399,Army of Islam,['Palestine'],,1,1,0,,,,,,1,0,1,,,,,,,,,,,105,299,,2007,2015
+91,657,Niger Delta Vigilante,['Nigeria'],,,,,,,,,,1,0,1,,,,,,,,,,,22,19,https://en.wikipedia.org/wiki/Niger_Delta_Vigilante,2003,2016
+92,304,Islamic Front,['Syria'],,,,,,,,,,1,0,1,,,,,,,,,,,1479,5388,,1996,2001
+93,660,Nuer White Army,['South Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,150,127,https://en.wikipedia.org/wiki/Nuer_White_Army,1996,2016
+94,665,Pan Africanist Congress of Azania,['South Africa'],,,,,1,1,0,,,,,,,,,,,,,,,,62,0,https://en.wikipedia.org/wiki/Pan_Africanist_Congress_of_Azania,1990,1994
+95,367,Caucasus Emirate,['Russia'],,1,1,0,,,,,,1,0,1,,,,,,,,,,,191,922,https://en.wikipedia.org/wiki/Caucasus_Emirate,2007,2016
+96,414,Ethiopian People's Revolutionary Democratic Front,['Ethiopia'],,,,,1,1,0,,,,,,,,,,,,,,,,261,39893,https://en.wikipedia.org/wiki/Ethiopian_People%27s_Revolutionary_Democratic_Front,1989,1991
+97,653,Rally for Congolese Democracy,,Africa,,,,,,,,1,,,,,,,,,,,,,,249,16,https://en.wikipedia.org/wiki/Rally_for_Congolese_Democracy,2001,2003
+98,4006,Sultanate of Sulu,['Philippines'],,,,,,,,,,1,0,1,,,,,,,,,,,2,9,https://en.wikipedia.org/wiki/Sultanate_of_Sulu,2013,2013
+99,423,Movement for the Liberation of Congo,,Africa,,,,,,,,1,,,,,,,,,,,,,,1090,992,https://en.wikipedia.org/wiki/Movement_for_the_Liberation_of_the_Congo,1998,2002
+100,424,Rally for Congolese Democracy,,Africa,,,,,,,,1,,,,,,,,,,,,,,5481,1731,https://en.wikipedia.org/wiki/Rally_for_Congolese_Democracy,1998,2004
+101,169,Communist Party of the Philippines,['Philippines'],,,,,1,,,,,1,0,1,,,,,,,,,,,393,3084,https://en.wikipedia.org/wiki/Communist_Party_of_the_Philippines,1989,2016
+102,170,Military,"['Iraq', 'Syria']",,,,,,,,,,1,0,1,,,,,,,,,,,45,41,https://en.wikipedia.org/wiki/Military,1989,1990
+103,498,Mozambican National Resistance,,Africa,,,,,,,,1,,,,,,,,,,,,,,1655,429,https://en.wikipedia.org/wiki/RENAMO,1989,2016
+104,4319,Ansar Bait al-Maqdis,,,1,1,0,,,,,,,,,,,,,,,,,,,1,73,https://en.wikipedia.org/wiki/Ansar_Bait_al-Maqdis,2014,2014
+105,1199,Raia Mutomboki,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,155,47,,2011,2012
+106,1165,Purbo Banglar Communist Party,['Bangladesh'],,,,,1,,,,,,,,,,,,,,,,,,0,15,https://en.wikipedia.org/wiki/Purbo_Banglar_Communist_Party,2004,2009
+107,755,Farabundo Martí National Liberation Front,['El Salvador'],Latin America,,,,1,,,1,1,,,,,,,,,,,,,,116,1180,https://en.wikipedia.org/wiki/Farabundo_Mart%C3%AD_National_Liberation_Front,1989,1992
+108,180,Karen National Union,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,197,2334,https://en.wikipedia.org/wiki/Karen_National_Union,1989,2015
+109,185,All Burma Students' Democratic Front,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,1,0,https://en.wikipedia.org/wiki/All_Burma_Students%27_Democratic_Front,1990,1999
+110,3953,Front for the Liberation of the Golan,,Middle East,,,,,,,,1,,,,,,,,,,,,,,0,20,https://en.wikipedia.org/wiki/Front_for_the_Liberation_of_the_Golan,2001,2001
+111,5821,Raia Mutomboki,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,30,0,,2014,2014
+112,190,New Mon State Party,['Myanmar (Burma)'],,,,,,,,,,1,0,1,,,,,,,,,,,2,34,https://en.wikipedia.org/wiki/New_Mon_State_Party,1990,2013
+113,629,Janjaweed,,Africa,,,,,,,,1,,,,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Janjaweed,2005,2005
+114,416,Eritrean People's Liberation Front,['Eritrea'],,,,,1,1,0,,,,,,,,,,,,,,,,427,42900,https://en.wikipedia.org/wiki/Eritrean_People%27s_Liberation_Front,1989,1991
+115,1218,Jamaat-ul-Mujahideen Bangladesh,,,1,1,0,,,,,,,,,,,,,,,,,,,50,8,https://en.wikipedia.org/wiki/Jamaat-ul-Mujahideen_Bangladesh,2004,2016
+116,195,Communist Party of India (Maoist),['India'],,,,,1,,,,,,,,,,,,,,,,,,1902,1955,https://en.wikipedia.org/wiki/Communist_Party_of_India_(Maoist),2004,2016
+117,716,Southern Command,['Syria'],,,,,,,,,,1,0,1,,,,,,,,,,,1,2,,2008,2008
+118,717,Al-Shabaab,['Yemen'],,1,1,0,,,,,,1,0,1,,,,,,,,,,,3531,2372,https://en.wikipedia.org/wiki/Al-Shabaab_(militant_group),2007,2016
+119,205,Popular Front for the Liberation of Palestine,"['Palestine', 'Lebanon']",Middle East,1,1,0,1,0,1,,1,,,,,,,,,,,,,,6,9,https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine,1989,2014
+120,205,Popular Front for the Liberation of Palestine,"['Palestine', 'Lebanon']",Middle East,1,1,0,1,0,1,,1,,,,,,,,,,,,,,6,9,https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine,1989,2014
+121,5840,Donetsk People's Republic,['Ukraine'],,1,1,0,,,,,,1,1,,,,,,,,,,,,454,526,https://en.wikipedia.org/wiki/Donetsk_People%27s_Republic,2014,2014
+122,466,Sudan People's Liberation Movement-North,['Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,4366,15482,https://en.wikipedia.org/wiki/Sudan_People%27s_Liberation_Movement,1989,2004
+123,211,al-Aqsa Martyrs' Brigades,,,1,1,0,,,,,,,,,,,,,,,,,,,190,43,https://en.wikipedia.org/wiki/Al-Aqsa_Martyrs%27_Brigades,2000,2006
+124,212,Popular Resistance Committees,['Palestine'],Middle East,,,,,,,,1,1,0,1,,,,,,,,,,,18,11,https://en.wikipedia.org/wiki/Popular_Resistance_Committees,2001,2014
+125,469,Sudan Liberation Movement/Army,['Sudan'],Africa,,,,,,,,1,1,0,1,,,,,,,,,,,459,3578,https://en.wikipedia.org/wiki/Sudan_Liberation_Movement/Army,2003,2011
+126,470,National Redemption Front,['Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,59,16,https://en.wikipedia.org/wiki/National_Redemption_Front,2006,2006
+127,2297,Tamil Nadu Liberation Army,,,1,1,0,,,,,,,,,,,,,,,,,,,0,10,https://en.wikipedia.org/wiki/Tamil_Nadu_Liberation_Army,1989,2005
+128,469,Sudan Liberation Movement/Army,['Sudan'],Africa,,,,,,,,1,1,0,1,,,,,,,,,,,459,3578,https://en.wikipedia.org/wiki/Sudan_Liberation_Movement/Army,2003,2011
+129,5849,Sudanese Awakening Revolutionary Council,['Sudan'],,,,,,,,,,1,0,1,,,,,,,,,,,1,34,https://en.wikipedia.org/wiki/Sudanese_Awakening_Revolutionary_Council,2014,2014
+130,5839,Lugansk People's Republic,['Ukraine'],,1,1,0,,,,,,1,1,,,,,,,,,,,,53,126,https://en.wikipedia.org/wiki/Luhansk_People%27s_Republic,2014,2014
+131,732,Guatemalan National Revolutionary Unity,,Latin America,,,,,,,,1,,,,,,,,,,,,,,14,165,https://en.wikipedia.org/wiki/Guatemalan_National_Revolutionary_Unity,1989,1996
+132,223,National Socialist Council of Nagaland,['India'],,,,,1,,,,,1,0,1,,,,,,,,,,,530,438,https://en.wikipedia.org/wiki/National_Socialist_Council_of_Nagaland,1989,2016
+133,3040,Nyatura,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,60,0,,2012,2016
+134,208,Palestinian Islamic Jihad,['Palestine'],Middle East,1,1,0,,,,,1,1,0,1,,,,,,,,,,,283,96,https://en.wikipedia.org/wiki/Islamic_Jihad_Movement_in_Palestine,1989,2015
+135,763,Military,"['Iraq', 'Syria']",,,,,,,,,,1,0,1,,,,,,,,,,,4,6,https://en.wikipedia.org/wiki/Military,1989,1989
+136,422,Alliance of Democratic Forces for the Liberation of Congo-Zaire,,Africa,,,,,,,,1,,,,,,,,,,,,,,35473,2944,https://en.wikipedia.org/wiki/Alliance_of_Democratic_Forces_for_the_Liberation_of_Congo,1996,1997
+137,742,Military,"['Iraq', 'Syria']",,,,,,,,,,1,0,1,,,,,,,,,,,80,0,https://en.wikipedia.org/wiki/Military,1992,1992
+138,743,Revolutionary Armed Forces of Colombia,['Colombia'],Latin America,1,1,0,,,,,1,1,0,1,,,,,,,,,,,2145,6084,https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia,1989,2016
+139,6751,Zintan Brigade,['Libya'],,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Zintan_Brigades,2012,2012
+140,235,Islamic Army of Iraq,['Iraq'],,,,,,,,,,1,0,1,,,,,,,,,,,30,104,https://en.wikipedia.org/wiki/Islamic_Army_in_Iraq,2004,2007
+141,750,Shining Path,['Peru'],Latin America,,,,1,,,,1,1,0,1,,,,,,,,,,,866,2197,https://en.wikipedia.org/wiki/Shining_Path,1989,2016
+142,751,Túpac Amaru Revolutionary Movement,['Peru'],Latin America,1,1,0,1,0,1,,1,,,,,,,,,,,,,,19,104,https://en.wikipedia.org/wiki/T%C3%BApac_Amaru_Revolutionary_Movement,1989,1997
+143,6590,Kamwina Nsapu militia,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,0,25,https://en.wikipedia.org/wiki/Kamwina_Nsapu_rebellion,2016,2016
+144,497,Ogaden National Liberation Front,['Ethiopia'],,,,,,,,,,1,0,1,,,,,,,,,,,123,370,https://en.wikipedia.org/wiki/Ogaden_National_Liberation_Front,1994,2016
+145,2034,Kurdistan Freedom Falcons,,,1,1,0,,,,,,,,,,,,,,,,,,,83,64,https://en.wikipedia.org/wiki/Kurdistan_Freedom_Hawks,2004,2016
+146,467,Myanmar National Democratic Alliance Army,['Myanmar'],,,,,1,,,,,,,,,,,,,,,,,,28,2439,https://en.wikipedia.org/wiki/Myanmar_National_Democratic_Alliance_Army,1996,2002
+147,4340,Ulster Defence Association,,,1,1,0,,,,,,,,,,,,,,,,,,,100,0,https://en.wikipedia.org/wiki/Ulster_Defence_Association,1989,2009
+148,759,Contras,,Latin America,,,,,,,,1,,,,,,,,,,,,,,136,168,https://en.wikipedia.org/wiki/Contras,1989,1990
+149,6717,ETA,"['France', 'Spain']",,1,1,0,1,,,1,,,,,,,,,,,,,,,0,60,https://en.wikipedia.org/wiki/Eta,2013,2013
+150,468,Justice and Equality Movement,['Sudan'],Africa,,,,,,,,1,1,0,1,,,,,,,,,,,319,1639,https://en.wikipedia.org/wiki/Justice_and_Equality_Movement,2003,2011
+151,529,Movement of Democratic Forces of Casamance,['Senegal'],,,,,,,,,,1,0,1,,,,,,,,,,,411,284,https://en.wikipedia.org/wiki/Movement_of_Democratic_Forces_of_Casamance,1990,2013
+152,383,Moroccan Islamic Combatant Group,,,1,1,0,,,,,,,,,,,,,,,,,,,191,0,https://en.wikipedia.org/wiki/Moroccan_Islamic_Combatant_Group,2004,2004
+153,764,Military,"['Iraq', 'Syria']",,,,,,,,,,1,0,1,,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Military,1991,1991
+154,509,Liberians United for Reconciliation and Democracy,,Africa,,,,,,,,1,,,,,,,,,,,,,,1078,392,https://en.wikipedia.org/wiki/Liberians_United_for_Reconciliation_and_Democracy,2000,2003
+155,3043,Mai-Mai,['Democratic Republic of the Congo'],,,,,,,,,,1,0,1,,,,,,,,,,,10,48,https://en.wikipedia.org/wiki/Mai-Mai,2010,2015
+156,767,Zapatista National Liberation Army,['Mexico'],Latin America,,,,,,,,1,,,,,,,,,,,,,,3,55,https://en.wikipedia.org/wiki/Zapatista_Army_of_National_Liberation,1994,1996
+157,1026,Armed Islamic Group - Green Battalion,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/Green_Battalion,1998,1998
+158,3,Government of United States of America,,,,,,,,,,,,,,1,,,,,,,,,,1712,2582,https://en.wikipedia.org/wiki/Federal_government_of_the_United_States,1989,2016
+159,342,Republic of Abkhazia,,,,,,,,,,,,,,,,,,,,,,,1,282,623,https://en.wikipedia.org/wiki/Abkhazia,1992,2011
+160,6,Government of Haiti,,,,,,,,,,,,,,1,,,,,,,,,,136,63,https://en.wikipedia.org/wiki/Government_of_Haiti,1989,2005
+161,8,Government of Trinidad and Tobago,,,,,,,,,,,,,,1,,,,,,,,,,0,6,https://en.wikipedia.org/wiki/Politics_of_Trinidad_and_Tobago,1990,1990
+162,10,Government of Mexico,,,,,,,,,,,,,,1,,,,,,,,,,98,68,https://en.wikipedia.org/wiki/Federal_government_of_Mexico,1989,2016
+163,11,Government of Guatemala,,,,,,,,,,,,,,1,,,,,,,,,,2226,258,https://en.wikipedia.org/wiki/Politics_of_Guatemala,1989,2007
+164,13,Government of El Salvador,,,,,,,,,,,,,,1,,,,,,,,,,116,4025,https://en.wikipedia.org/wiki/Government_of_El_Salvador,1989,1992
+165,14,Government of Nicaragua,,,,,,,,,,,,,,1,,,,,,,,,,136,247,https://en.wikipedia.org/wiki/Government_of_Nicaragua,1989,1990
+166,16,Government of Panama,,,,,,,,,,,,,,1,,,,,,,,,,500,106,https://en.wikipedia.org/wiki/Politics_of_Panama,1989,1989
+167,17,Government of Colombia,,,,,,,,,,,,,,1,,,,,,,,,,937,12509,https://en.wikipedia.org/wiki/Government_of_Colombia,1989,2016
+168,18,Government of Venezuela,,,,,,,,,,,,,,1,,,,,,,,,,692,4,https://en.wikipedia.org/wiki/Government_of_Venezuela,1989,2013
+169,20,Government of Ecuador,,,,,,,,,,,,,,1,,,,,,,,,,0,49,https://en.wikipedia.org/wiki/Politics_of_Ecuador,1995,1995
+170,21,Government of Peru,,,,,,,,,,,,,,1,,,,,,,,,,340,3408,https://en.wikipedia.org/wiki/Government_of_Peru,1989,2016
+171,22,Government of Brazil,,,,,,,,,,,,,,1,,,,,,,,,,94,0,https://en.wikipedia.org/wiki/Federal_government_of_Brazil,1993,2008
+172,24,Government of Paraguay,,,,,,,,,,,,,,1,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Politics_of_Paraguay,1989,1989
+173,1051,People Committed to Propagating the Prophet's Teachings and Jihad,,,,,,,,,,,,,,,,,,1,,,,,,8512,1488,,2009,2016
+174,28,Government of United Kingdom,,,,,,,,,,,,,,1,,,,,,,,,,806,165,https://en.wikipedia.org/wiki/Government_of_the_United_Kingdom,1989,2011
+175,4130,March 23 Movement - Runiga faction,,,,,,,,,,,,,,,,,,,1,,,,,28,1,https://en.wikipedia.org/wiki/March_23_Movement,2013,2013
+176,35,Government of Spain,,,,,,,,,,,,,,1,,,,,,,,,,26,14,https://en.wikipedia.org/wiki/Government_of_Spain,1989,2011
+177,1066,National Democratic Front for Bodoland -  Ranjan Daimary faction,,,,,,,,,,,,,,,,,,,1,,,,,36,15,https://en.wikipedia.org/wiki/National_Democratic_Front_of_Boroland,2009,2013
+178,6187,Military faction (forces of Godefroid Niyombare),,,,,,,,,,,,,,,,,,,1,,,,,1,0,https://en.wikipedia.org/wiki/2015_Burundian_coup_d%27%C3%A9tat_attempt,2015,2015
+179,48,Government of Croatia,,,,,,,,,,,,,,1,,,,,,,,,,259,637,https://en.wikipedia.org/wiki/Government_of_Croatia,1992,1995
+180,49,Government of Yugoslavia,,,,,,,,,,,,,,1,,,,,,,,,,1736,987,https://en.wikipedia.org/wiki/Yugoslavia,1991,1999
+181,50,Government of Bosnia-Herzegovina,,,,,,,,,,,,,,1,,,,,,,,,,1869,3224,https://en.wikipedia.org/wiki/Armed_Forces_of_Bosnia_and_Herzegovina,1992,1995
+182,55,Government of Moldova,,,,,,,,,,,,,,1,,,,,,,,,,24,351,https://en.wikipedia.org/wiki/Politics_of_Moldova,1992,1992
+183,56,Government of Rumania,,,,,,,,,,,,,,1,,,,,,,,,,195,4,https://en.wikipedia.org/wiki/Government_of_Romania,1989,1989
+184,57,Government of Soviet Union,,,,,,,,,,,,,,1,,,,,,,,,,4557,6377,https://en.wikipedia.org/wiki/Government_of_the_Soviet_Union,1989,2016
+185,61,Government of Ukraine,,,,,,,,,,,,,,1,,,,,,,,,,1328,924,https://en.wikipedia.org/wiki/Government_of_Ukraine,2014,2016
+186,63,Government of Georgia,,,,,,,,,,,,,,1,,,,,,,,,,363,1234,,1991,2011
+187,64,Government of Azerbaijan,,,,,,,,,,,,,,1,,,,,,,,,,302,1289,https://en.wikipedia.org/wiki/Politics_of_Azerbaijan,1991,2016
+188,1089,Beltrán Leyva Cartel,,,,,,,,,,,,,,,,,,,,1,,,,9,18,https://en.wikipedia.org/wiki/Beltr%C3%A1n-Leyva_Cartel,2008,2016
+189,1090,Beltrán Leyva Cartel - Valdez Villareal faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,,2010,2010
+190,70,Government of Guinea-Bissau,,,,,,,,,,,,,,1,,,,,,,,,,111,213,https://en.wikipedia.org/wiki/Guinea-Bissau,1998,1999
+191,72,Government of Mali,,,,,,,,,,,,,,1,,,,,,,,,,747,1198,https://en.wikipedia.org/wiki/Politics_of_Mali,1990,2016
+192,73,Government of Senegal,,,,,,,,,,,,,,1,,,,,,,,,,182,1071,https://en.wikipedia.org/wiki/Politics_of_Senegal,1990,2013
+193,74,Government of Mauritania,,,,,,,,,,,,,,1,,,,,,,,,,50,42,https://en.wikipedia.org/wiki/Politics_of_Mauritania,1989,2012
+194,75,Government of Niger,,,,,,,,,,,,,,1,,,,,,,,,,422,507,https://en.wikipedia.org/wiki/Government_of_Niger,1990,2016
+195,76,Government of Ivory Coast,,,,,,,,,,,,,,1,,,,,,,,,,931,129,https://en.wikipedia.org/wiki/Politics_of_Ivory_Coast,2000,2013
+196,77,Government of Guinea,,,,,,,,,,,,,,1,,,,,,,,,,351,497,https://en.wikipedia.org/wiki/Politics_of_Guinea,2000,2015
+197,1102,Taleban Movement of Pakistan - Mulla Rafique faction,,,,,,,,,,,,,,,,,,,1,,,,,3,11,,2010,2010
+198,79,Government of Liberia,,,,,,,,,,,,,,1,,,,,,,,,,4797,335,https://en.wikipedia.org/wiki/Politics_of_Liberia,1989,2003
+199,80,Government of Sierra Leone,,,,,,,,,,,,,,1,,,,,,,,,,1475,5217,https://en.wikipedia.org/wiki/Government_of_Sierra_Leone,1991,2001
+200,82,Government of Togo,,,,,,,,,,,,,,1,,,,,,,,,,498,0,https://en.wikipedia.org/wiki/Togo,1991,2005
+201,83,Government of Cameroon,,,,,,,,,,,,,,1,,,,,,,,,,169,935,https://en.wikipedia.org/wiki/Government_of_Cameroon,1990,2016
+202,84,Government of Nigeria,,,,,,,,,,,,,,1,,,,,,,,,,4584,11311,https://en.wikipedia.org/wiki/Federal_government_of_Nigeria,1990,2016
+203,86,Government of Central African Republic,,,,,,,,,,,,,,1,,,,,,,,,1,1562,126,https://en.wikipedia.org/wiki/Politics_of_the_Central_African_Republic,1991,2014
+204,87,Government of Chad,,,,,,,,,,,,,,1,,,,,,,,,,1116,1373,https://en.wikipedia.org/wiki/Government_of_Chad,1989,2016
+205,88,Government of Congo,,,,,,,,,,,,,,1,,,,,,,,,,1543,665,https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo,1992,2016
+206,89,Government of Democratic Republic of the Congo (Zaire),,,,,,,,,,,,,,1,,,,,,,,,1,11585,5598,https://en.wikipedia.org/wiki/Flag_of_the_Democratic_Republic_of_the_Congo,1989,2016
+207,90,Government of Uganda,,,,,,,,,,,,,,1,,,,,,,,,,730,10766,https://en.wikipedia.org/wiki/Politics_of_Uganda,1989,2016
+208,91,Government of Kenya,,,,,,,,,,,,,,1,,,,,,,,,,329,51,https://en.wikipedia.org/wiki/Government_of_Kenya,1990,2016
+209,92,Government of Tanzania,,,,,,,,,,,,,,1,,,,,,,,,,38,0,https://en.wikipedia.org/wiki/Politics_of_Tanzania,1992,2001
+210,93,Government of Burundi,,,,,,,,,,,,,,1,,,,,,,,,,5570,4570,https://en.wikipedia.org/wiki/Politics_of_Burundi,1990,2016
+211,94,Government of Rwanda,,,,,,,,,,,,,,1,,,,,,,,,,511650,6659,https://en.wikipedia.org/wiki/Politics_of_Rwanda,1990,2016
+212,95,Government of Somalia,,,,,,,,,,,,,,1,,,,,,,,,,5381,4813,https://en.wikipedia.org/wiki/Federal_Government_of_Somalia,1989,2016
+213,96,Government of Djibouti,,,,,,,,,,,,,,1,,,,,,,,,,6,52,https://en.wikipedia.org/wiki/Politics_of_Djibouti,1991,2008
+214,97,Government of Ethiopia,,,,,,,,,,,,,,1,,,,,,,,,,3839,15507,https://en.wikipedia.org/wiki/Government_of_Ethiopia,1989,2016
+215,98,Government of Eritrea,,,,,,,,,,,,,,1,,,,,,,,,,159,5208,https://en.wikipedia.org/wiki/Politics_of_Eritrea,1993,2016
+216,99,Government of Angola,,,,,,,,,,,,,,1,,,,,,,,,,1707,7673,https://en.wikipedia.org/wiki/Politics_of_Angola,1989,2016
+217,100,Government of Mozambique,,,,,,,,,,,,,,1,,,,,,,,,,251,2693,https://en.wikipedia.org/wiki/Politics_of_Mozambique,1989,2016
+218,101,Government of Rhodesia,,,,,,,,,,,,,,1,,,,,,,,,,261,0,https://en.wikipedia.org/wiki/Rhodesia,1995,2012
+219,102,Government of South Africa,,,,,,,,,,,,,,1,,,,,,,,,,418,0,https://en.wikipedia.org/wiki/Government_of_South_Africa,1989,2010
+220,104,Government of Lesotho,,,,,,,,,,,,,,1,,,,,,,,,,0,55,https://en.wikipedia.org/wiki/Politics_of_Lesotho,1998,1998
+221,1129,Republic of South Sudan,,,,,,,,,,,,,,,,,,,,,,,1,104,27,https://en.wikipedia.org/wiki/South_Sudan,2011,2011
+222,106,Government of Madagascar,,,,,,,,,,,,,,1,,,,,,,,,,46,0,https://en.wikipedia.org/wiki/Politics_of_Madagascar,2009,2012
+223,107,Government of Comoros,,,,,,,,,,,,,,1,,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Comoros,1989,1997
+224,108,Government of Morocco,,,,,,,,,,,,,,1,,,,,,,,,,0,127,https://en.wikipedia.org/wiki/President_of_the_Government_of_Morocco,1989,1991
+225,109,Government of Algeria,,,,,,,,,,,,,,1,,,,,,,,,,250,14977,https://en.wikipedia.org/wiki/Politics_of_Algeria,1990,2016
+226,111,Government of Libya,,,,,,,,,,,,,,1,,,,,,,,,,447,1572,https://en.wikipedia.org/wiki/Politics_of_Libya,1989,2016
+227,112,Government of Sudan,,,,,,,,,,,,,,1,,,,,,,,,,15117,5557,https://en.wikipedia.org/wiki/Politics_of_Sudan,1989,2016
+228,113,Government of South Sudan,,,,,,,,,,,,,,1,,,,,,,,,,1825,563,https://en.wikipedia.org/wiki/Politics_of_South_Sudan,2011,2016
+229,114,Government of Iran,,,,,,,,,,,,,,1,,,,,,,,,,142,584,https://en.wikipedia.org/wiki/Politics_of_Iran,1990,2016
+230,115,Government of Turkey,,,,,,,,,,,,,,1,,,,,,,,,,546,22397,https://en.wikipedia.org/wiki/Cabinet_of_Turkey,1989,2016
+231,116,Government of Iraq,,,,,,,,,,,,,,1,,,,,,,,,,9948,38439,https://en.wikipedia.org/wiki/Federal_government_of_Iraq,1989,2016
+232,117,Government of Egypt,,,,,,,,,,,,,,1,,,,,,,,,,52,1253,https://en.wikipedia.org/wiki/Politics_of_Egypt,1990,2016
+233,118,Government of Syria,,,,,,,,,,,,,,1,,,,,,,,,,14,0,https://en.wikipedia.org/wiki/Council_of_Ministers_(Syria),2011,2015
+234,119,Government of Lebanon,,,,,,,,,,,,,,1,,,,,,,,,,133,157,https://en.wikipedia.org/wiki/Politics_of_Lebanon,1989,2016
+235,120,Government of Jordan,,,,,,,,,,,,,,1,,,,,,,,,,3,13,https://en.wikipedia.org/wiki/Politics_of_Jordan,2016,2016
+236,121,Government of Israel,,,,,,,,,,,,,,1,,,,,,,,,,2146,3238,https://en.wikipedia.org/wiki/Cabinet_of_Israel,1989,2016
+237,123,Government of North Yemen,,,,,,,,,,,,,,1,,,,,,,,,,2694,5023,https://en.wikipedia.org/wiki/Politics_of_Yemen,1994,2016
+238,125,Government of Kuwait,,,,,,,,,,,,,,1,,,,,,,,,,2977,252,https://en.wikipedia.org/wiki/Government_of_Kuwait,1990,1991
+239,126,Government of Bahrain,,,,,,,,,,,,,,1,,,,,,,,,,26,0,https://en.wikipedia.org/wiki/Cabinet_of_Bahrain,2011,2011
+240,1151,Jalisco Cartel New Generation,,,,,,,,,,,,,,,,,,,,1,,,,5,60,https://en.wikipedia.org/wiki/Jalisco_New_Generation_Cartel,2011,2016
+241,1152,Independent Cartel of Acapulco,,,,,,,,,,,,,,,,,,,,1,,,,0,0,https://en.wikipedia.org/wiki/Independent_Cartel_of_Acapulco,2011,2015
+242,130,Government of Afghanistan,,,,,,,,,,,,,,1,,,,,,,,,,20018,77307,https://en.wikipedia.org/wiki/Politics_of_Afghanistan,1989,2016
+243,131,Government of Tajikistan,,,,,,,,,,,,,,1,,,,,,,,,,592,1054,https://en.wikipedia.org/wiki/Politics_of_Tajikistan,1992,2013
+244,133,Government of Uzbekistan,,,,,,,,,,,,,,1,,,,,,,,,,10,307,https://en.wikipedia.org/wiki/Government_of_Uzbekistan,1999,2009
+245,135,Government of China,,,,,,,,,,,,,,1,,,,,,,,,,2667,31,https://en.wikipedia.org/wiki/Government_of_China,1989,2008
+246,1161,Movement for Unity and Jihad in West Africa,,,,,,,,,,,,,,,,,,1,,,,,,21,50,https://en.wikipedia.org/wiki/Movement_for_Oneness_and_Jihad_in_West_Africa,2012,2015
+247,1163,Garo National Liberation Army,,,,,,,,,,,,,,,1,,,,,,,,,3,23,https://en.wikipedia.org/wiki/Insurgency_in_Northeast_India,2010,2016
+248,1164,Military faction (Red Berets),,,,,,,,,,,,,,,,,,,1,,,,,2,0,,2012,2013
+249,141,Government of India,,,,,,,,,,,,,,1,,,,,,,,,,1807,23440,https://en.wikipedia.org/wiki/Government_of_India,1989,2016
+250,1166,Baloch Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,1,36,https://en.wikipedia.org/wiki/Baluch_Liberation_Front,2012,2015
+251,143,Government of Bangladesh,,,,,,,,,,,,,,1,,,,,,,,,,175,267,https://en.wikipedia.org/wiki/Government_of_Bangladesh,1989,2016
+252,144,Government of Myanmar (Burma),,,,,,,,,,,,,,1,,,,,,,,,,4636,1966,https://en.wikipedia.org/wiki/Politics_of_Myanmar,1989,2016
+253,145,Government of Sri Lanka,,,,,,,,,,,,,,1,,,,,,,,,,8265,37831,https://en.wikipedia.org/wiki/Government_of_Sri_Lanka,1989,2013
+254,146,Government of Nepal,,,,,,,,,,,,,,1,,,,,,,,,,1247,3923,https://en.wikipedia.org/wiki/Government_of_Nepal,1990,2009
+255,147,Government of Thailand,,,,,,,,,,,,,,1,,,,,,,,,,132,378,https://en.wikipedia.org/wiki/Government_of_Thailand,1995,2016
+256,148,Government of Cambodia,,,,,,,,,,,,,,1,,,,,,,,,,250,712,https://en.wikipedia.org/wiki/Politics_of_Cambodia,1989,2012
+257,149,Government of Laos,,,,,,,,,,,,,,1,,,,,,,,,,136,38,https://en.wikipedia.org/wiki/Politics_of_Laos,1989,2006
+258,152,Government of Malaysia,,,,,,,,,,,,,,1,,,,,,,,,,2,27,https://en.wikipedia.org/wiki/Government_of_Malaysia,2013,2013
+259,6297,Republican Forces of Burundi,,,,,,,,,,,,,,,,,,,,,,,1,0,14,https://en.wikipedia.org/wiki/Popular_Forces_of_Burundi,2015,2016
+260,154,Government of Philippines,,,,,,,,,,,,,,1,,,,,,,,,,773,9899,https://en.wikipedia.org/wiki/Government_of_the_Philippines,1989,2016
+261,155,Government of Indonesia,,,,,,,,,,,,,,1,,,,,,,,,,1798,2224,https://en.wikipedia.org/wiki/Government_of_Indonesia,1989,2015
+262,157,Government of Papua New Guinea,,,,,,,,,,,,,,1,,,,,,,,,,111,129,https://en.wikipedia.org/wiki/Politics_of_Papua_New_Guinea,1989,2001
+263,1185,People's Committee against Police Atrocities,,,,,,,,,,,,,,,,,1,,,,,,,146,0,"https://en.wikipedia.org/wiki/Scheduled_Caste_and_Scheduled_Tribe_(Prevention_of_Atrocities)_Act,_1989",2010,2010
+264,1187,People's Liberation Front of India,,,,,,,,,,,,,,,1,,1,,,,,,,157,0,https://en.wikipedia.org/wiki/Eelam_People%27s_Revolutionary_Liberation_Front,2009,2016
+265,164,Republic of Kurdistan,,,,,,,,,,,,,,,,,,,,,,,1,92,22,https://en.wikipedia.org/wiki/Iraqi_Kurdistan,1990,2016
+266,369,People's United Liberation Front,,,,,,,,,,,,,,,1,,1,,,,,,,0,0,https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine,2000,2011
+267,6320,United Liberation Front of Western South East Asia,,,,,,,,,,,,,,,1,,,,,,,,,3,33,https://en.wikipedia.org/wiki/United_Liberation_Front_of_Western_South_East_Asia,2015,2016
+268,207,Palestinian National Liberation Movement,,,,,,,,,,,,,,,1,,,,,,,,,72,115,https://en.wikipedia.org/wiki/Fatah,1989,2016
+269,209,Islamic Resistance Movement,,,,,,,,,,,,,,,,,,1,,,,,,1387,266,https://en.wikipedia.org/wiki/Hamas,1989,2016
+270,3297,Los Zetas - Old School Zetas faction ,,,,,,,,,,,,,,,,,,,1,,,,,0,7,https://en.wikipedia.org/wiki/Los_Zetas,2016,2016
+271,231,Supreme Council for the Islamic Revolution in Iraq,,,,,,,,,,,,,,,,,,1,,,,,,6,103,https://en.wikipedia.org/wiki/Islamic_Supreme_Council_of_Iraq,1991,2004
+272,233,Supporters of Islam,,,,,,,,,,,,,,,,,,1,,,,,,225,356,https://en.wikipedia.org/wiki/Islam,2001,2011
+273,234,The Monotheism and Jihad Group,,,,,,,,,,,,,,,,,,1,,,,,,21226,12029,https://en.wikipedia.org/wiki/Jama%27at_al-Tawhid_wal-Jihad,2004,2016
+274,3323,The Zetas - Velazquez Caballero faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,,2012,2012
+275,3332,National Union of Road Transport Workers-Tokyo faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Japan),2011,2011
+276,272,Khmer People’s National Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,22,52,https://en.wikipedia.org/wiki/Khmer_People%27s_National_Liberation_Front,1989,1991
+277,281,People's Liberation Front,,,,,,,,,,,,,,,1,,1,,,,,,,290,208,,1989,1990
+278,285,People's Solidarity Association/Peace Force,,,,,,,,,,,,,,,,,1,,,,,,,258,76,https://en.wikipedia.org/wiki/World_Peace_Council,1989,2003
+279,292,Islamic Society of Afghanistan,,,,,,,,,,,,,,,,,,1,,,,,,226,573,https://en.wikipedia.org/wiki/Jamiat-e_Islami,1989,2016
+280,293,Harakat-i Inqilab-i Islami-yi Afghanistan ,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/Northern_Alliance,1989,1989
+281,294,Islamic Party of Afghanistan - Khalis faction,,,,,,,,,,,,,,,,,,1,1,,,,,216,922,https://en.wikipedia.org/wiki/Hezbi_Islami,1989,1992
+282,296,Mahaz-i Milli-yi Islami-yi Afghanistan ,,,,,,,,,,,,,,,,,,1,,,,,,70,20,,1989,1996
+283,297,Ittihad-i Islami Bara-yi Azadi-yi Afghanistan ,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/Islamic_Dawah_Organisation_of_Afghanistan,1989,1989
+284,299,Islamic Party of Afghanistan,,,,,,,,,,,,,,,,,,1,,,,,,1928,671,https://en.wikipedia.org/wiki/Hezbi_Islami,1989,2016
+285,301,Military faction (forces of Shahnawaz Tanay),,,,,,,,,,,,,,,,,,,1,,,,,95,10,,1990,1990
+286,302,National Islamic Movement,,,,,,,,,,,,,,,,,,1,,,,,,156,325,,1992,2016
+287,308,People's Mujahideen,,,,,,,,,,,,,,,,,1,,,,,,,7,41,https://en.wikipedia.org/wiki/People%27s_Mujahedin_of_Iran,1991,2015
+288,319,Sikh insurgents,,,,,,,,,,,,,,,,1,,,,,,,,1379,1472,https://en.wikipedia.org/wiki/Khalistan_movement,1989,2009
+289,3296,Los Zetas - Cártel del Noreste faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Los_Zetas,2016,2016
+290,322,Eelam People's Revolutionary Liberation Front,,,,,,,,,,,,,,,1,,1,,,,,,,3,80,https://en.wikipedia.org/wiki/Eelam_People%27s_Revolutionary_Liberation_Front,1989,1990
+291,325,Kashmir insurgents,,,,,,,,,,,,,,,,1,,,,,,,,3958,4298,https://en.wikipedia.org/wiki/Insurgency_in_Jammu_and_Kashmir,1989,2016
+292,328,Balochistan Republican Army,,,,,,,,,,,,,,,,,,,,,,,1,26,106,https://en.wikipedia.org/wiki/Baloch_Republican_Army,1989,1997
+293,330,Republic of Armenia,,,,,,,,,,,,,,,,,,,,,,,1,7,54,https://en.wikipedia.org/wiki/Armenia,1990,1991
+294,343,South Ossetian Soviet Democratic Republic,,,,,,,,,,,,,,,,,,,,,,,1,220,230,,1991,2008
+295,336,Republic of Slovenia,,,,,,,,,,,,,,,,,,,,,,,1,7,36,https://en.wikipedia.org/wiki/Slovenia,1991,1991
+296,337,Republic of Croatia,,,,,,,,,,,,,,,,,,,,,,,1,185,1513,https://en.wikipedia.org/wiki/Croatia,1991,1992
+297,6482,Sinaloa Cartel - Los Salazar faction,,,,,,,,,,,,,,,,,,,1,1,,,,2,0,https://en.wikipedia.org/wiki/Sinaloa_Cartel,2015,2015
+298,339,Serbian Republic of Bosnia-Herzegovina,,,,,,,,,,,,,,,,,,,,,,,1,13518,2200,https://en.wikipedia.org/wiki/Republic_of_Bosnia_and_Herzegovina,1992,1995
+299,340,Serbian Republic of Krajina,,,,,,,,,,,,,,,,,,,,,,,1,151,280,https://en.wikipedia.org/wiki/Republic_of_Serbian_Krajina,1992,1995
+300,6485,Sinaloa Cartel - Forces of Damaso faction,,,,,,,,,,,,,,,,,,,1,1,,,,5,1,https://en.wikipedia.org/wiki/Sinaloa_Cartel,2014,2015
+301,6486,Sinaloa Cartel - Los 28 faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,4,https://en.wikipedia.org/wiki/Sinaloa_Cartel,2015,2015
+302,6487,Sinaloa Cartel - El Pepillo faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,5,,2015,2015
+303,344,Dniestr Republic,,,,,,,,,,,,,,,,,,,,,,,1,24,78,https://en.wikipedia.org/wiki/Transnistria,1992,1992
+304,347,Military faction (forces of Suret Husseinov),,,,,,,,,,,,,,,,,,,1,,,,,0,16,,1993,1994
+305,350,Croatian Republic of Bosnia-Herzegovina,,,,,,,,,,,,,,,,,,,,,,,1,503,411,https://en.wikipedia.org/wiki/Republic_of_Bosnia_and_Herzegovina,1992,1995
+306,352,Chechen Republic of Ichkeria,,,,,,,,,,,,,,,,,,,,,,,1,2358,5481,https://en.wikipedia.org/wiki/Chechen_Republic_of_Ichkeria,1994,2007
+307,353,Democratic Republic of Yemen,,,,,,,,,,,,,,,,,,,,,,,1,308,515,https://en.wikipedia.org/wiki/Democratic_Republic_of_Yemen,1994,1994
+308,360,Jihad Islamic Group,,,,,,,,,,,,,,,,,,1,,,,,,2,10,https://en.wikipedia.org/wiki/Egyptian_Islamic_Jihad,2004,2009
+309,361,Kosovo Liberation Army,,,,,,,,,,,,,,,1,,,,,,,,,11,41,https://en.wikipedia.org/wiki/Kosovo_Liberation_Army,2000,2001
+310,365,Patani insurgents,,,,,,,,,,,,,,,,1,,,,,,,,2000,1051,https://en.wikipedia.org/wiki/Patani,1992,2016
+311,368,Dima Halam Daogah - Black Widow faction,,,,,,,,,,,,,,,,,,,1,,,,,61,0,https://en.wikipedia.org/wiki/Dima_Halam_Daogah,2007,2009
+312,5864,Taleban Movement of Pakistan - Khalid Mehsud faction,,,,,,,,,,,,,,,,,,,1,,,,,2,20,,2014,2014
+313,373,Bodo Liberation Tiger Force,,,,,,,,,,,,,,,1,,,,,,,,,78,0,https://en.wikipedia.org/wiki/Bodo_Liberation_Tigers_Force,1996,2003
+314,385,Islamic Community,,,,,,,,,,,,,,,,,,1,,,,,,249,0,https://en.wikipedia.org/wiki/Ummah,2002,2005
+315,4486,Gulf Cartel - Ramirez Treviño faction,,,,,,,,,,,,,,,,,,,1,1,,,,2,0,https://en.wikipedia.org/wiki/Gulf_Cartel,2013,2013
+316,4487,Gulf Cartel - Villareal faction,,,,,,,,,,,,,,,,,,,1,1,,,,2,0,,2013,2013
+317,393,Salafist Jihadists,,,,,,,,,,,,,,,,,,1,,,,,,34,0,https://en.wikipedia.org/wiki/Salafi_jihadism,2003,2003
+318,396,United People's Democratic Solidarity,,,,,,,,,,,,,,,,,1,,,,,,,86,0,https://en.wikipedia.org/wiki/United_People%27s_Democratic_Solidarity,2000,2007
+319,6481,Sinaloa Cartel - Los Memos faction,,,,,,,,,,,,,,,,,,,1,1,,,,2,0,,2015,2015
+320,398,Supporters of Islam,,,,,,,,,,,,,,,,,,1,,,,,,1,132,https://en.wikipedia.org/wiki/Islam,2007,2013
+321,4499,Government of Solomon Islands,,,,,,,,,,,,,,1,,,,,,,,,,3,29,https://en.wikipedia.org/wiki/Solomon_Islands,1998,2001
+322,413,Military faction (forces of Amsha Desta and Merid Negusie),,,,,,,,,,,,,,,,,,,1,,,,,0,1,,1989,1989
+323,1046,Partisans of Islam,,,,,,,,,,,,,,,,,,1,,,,,,53,0,https://en.wikipedia.org/wiki/Shia_Islam,2008,2008
+324,6573,Los Zetas - Jorge Ivan Hernandez Cantu faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Los_Zetas,2016,2016
+325,6574,Los Zetas - Juan Pedro Salvador Saldivar Farias faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,,2016,2016
+326,432,Party for the Liberation of the Hutu People-Forces for National Liberation,,,,,,,,,,,,,,,1,,,,,,,,,1210,927,https://en.wikipedia.org/wiki/National_Forces_of_Liberation,1996,2008
+327,433,National Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,10,8,https://en.wikipedia.org/wiki/National_Liberation_Front_(Algeria),1990,1997
+328,442,Islamic Legion,,,,,,,,,,,,,,,,,,1,,,,,,0,47,https://en.wikipedia.org/wiki/Islamic_Legion,1989,1990
+329,444,Movement for the National Salvation of Chad,,,,,,,,,,,,,,,1,,,,,,,,,0,43,https://en.wikipedia.org/wiki/Patriotic_Salvation_Movement,1989,1989
+330,445,Patriotic Salvation Movement,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Patriotic_Salvation_Movement,1990,1990
+331,449,Military faction (forces of Maldoum Bada Abbas),,,,,,,,,,,,,,,,,,,1,,,,,0,1,,1991,1991
+332,451,Armed Forces of the Federal Republic,,,,,,,,,,,,,,,,,,,,,,,1,55,5,https://en.wikipedia.org/wiki/Republic_of_Yemen_Armed_Forces,1994,1998
+333,697,United Liberation Movement for Democracy in Liberia,,,,,,,,,,,,,,,1,,,,,,,,,1321,341,https://en.wikipedia.org/wiki/United_Liberation_Movement_of_Liberia_for_Democracy,1991,1994
+334,1101,Taleban Movement of Pakistan - Tariq Afridi faction,,,,,,,,,,,,,,,,,,,1,,,,,36,35,,2010,2013
+335,1103,Taleban Movement of Pakistan - Mullah Toofan faction,,,,,,,,,,,,,,,,,,,1,,,,,3,0,,2010,2010
+336,1104,Warriors of Jihad,,,,,,,,,,,,,,,,,,1,,,,,,110,0,https://en.wikipedia.org/wiki/Jihad,2000,2002
+337,3554,Popular Front for Reconstruction - Baba Lade faction,,,,,,,,,,,,,,,,,,,1,,,,,99,0,,2012,2014
+338,3555,Christians (CAR),,,,,,,,,,,,,,,,,,,,,,1,,76,22,https://en.wikipedia.org/wiki/History_of_the_automobile,2007,2016
+339,3556,Muslims (CAR),,,,,,,,,,,,,,,,,,,,,1,,,76,71,https://en.wikipedia.org/wiki/Islam_in_the_United_Kingdom,2007,2016
+340,488,Uganda Democratic Christian Army,,,,,,,,,,,,,,,,,,,,,,1,,8081,1275,https://en.wikipedia.org/wiki/Lord%27s_Resistance_Army,1989,2016
+341,495,Eritrean Islamic Jihad Movement - Abu Suhail faction,,,,,,,,,,,,,,,,,,1,1,,,,,0,77,,1993,2003
+342,499,Somali Salvation Democratic Front,,,,,,,,,,,,,,,1,,,,,,,,,0,1,https://en.wikipedia.org/wiki/Somali_Salvation_Democratic_Front,1992,1993
+343,505,Supreme Islamic Council of Somalia,,,,,,,,,,,,,,,,,,1,,,,,,626,404,https://en.wikipedia.org/wiki/Islamic_Courts_Union,2006,2009
+344,521,Popular Movement for the Liberation of Azawad,,,,,,,,,,,,,,,1,,,,,,,,,0,187,https://en.wikipedia.org/wiki/People%27s_Movement_for_the_Liberation_of_Azawad,1990,1994
+345,522,Islamic Arab Front of Azawad,,,,,,,,,,,,,,,,,,1,,,,,,101,8,https://en.wikipedia.org/wiki/Arab_Islamic_Front_of_Azawad,1991,1995
+346,523,May 23 Democratic Alliance for Change - Ibrahim Bahanga faction,,,,,,,,,,,,,,,,,,,1,,,,,22,76,,2007,2009
+347,524,Aїr and Azawad Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,1,23,,1991,1993
+348,531,Front for the Restoration of Unity and Democracy - Ahmed Dini faction,,,,,,,,,,,,,,,,,,,1,,,,,4,28,https://en.wikipedia.org/wiki/Front_for_the_Restoration_of_Unity_and_Democracy,1997,1999
+349,430,Party for the Liberation of the Hutu People,,,,,,,,,,,,,,,1,,,,,,,,,5,19,https://en.wikipedia.org/wiki/National_Forces_of_Liberation,1991,1995
+350,537,Armed Islamic Movement,,,,,,,,,,,,,,,,,,1,,,,,,25,403,https://en.wikipedia.org/wiki/Islamic_Jihad_Movement_in_Palestine,1992,1999
+351,538,Armed Islamic Group,,,,,,,,,,,,,,,,,,1,,,,,,1556,865,https://en.wikipedia.org/wiki/Armed_Islamic_Group_of_Algeria,1992,2004
+352,542,Islamic Unity,,,,,,,,,,,,,,,,,,1,,,,,,100,657,https://en.wikipedia.org/wiki/Islamic_Unity_of_Afghanistan_Mujahideen,1992,1999
+353,544,Anjouan People’s Movement/Republic of Anjouan,,,,,,,,,,,,,,,,,,,,,,,1,3,47,https://en.wikipedia.org/wiki/Comoros,1997,1998
+354,1115,Issa and Gurgura Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,0,0,https://en.wikipedia.org/wiki/Issa_and_Gurgura_Liberation_Front,1991,1992
+355,550,Military faction,,,,,,,,,,,,,,,,,,,1,,,,,0,8,,1998,1998
+356,552,Military faction (forces of André Kolingba),,,,,,,,,,,,,,,,,,,1,,,,,3,40,https://en.wikipedia.org/wiki/List_of_heads_of_state_of_the_Central_African_Republic,2001,2001
+357,5895,Army of Islam,,,,,,,,,,,,,,,,,,1,,,,,,35,0,,2014,2014
+358,6711,Donetsk People's Republic,,,,,,,,,,,,,,,,,1,,,,,,1,123,134,https://en.wikipedia.org/wiki/Donetsk_People%27s_Republic,2015,2016
+359,6712,Lugansk People's Republic,,,,,,,,,,,,,,,,,1,,,,,,1,51,51,https://en.wikipedia.org/wiki/Luhansk_People%27s_Republic,2015,2016
+360,580,Supporters of All Nigeria People's Party,,,,,,,,,,,,,,,,,1,,,,,,,2,21,https://en.wikipedia.org/wiki/People%27s_Redemption_Party,1998,2011
+361,6726,Government of Macedonia,,,,,,,,,,,,,,1,,,,,,,,,,11,23,https://en.wikipedia.org/wiki/Politics_of_the_Republic_of_Macedonia,2000,2001
+362,6740,Government of Australia,,,,,,,,,,,,,,1,,,,,,,,,,434,103,https://en.wikipedia.org/wiki/Government_of_Australia,2003,2003
+363,603,People's Armed Forces of Congo,,,,,,,,,,,,,,,,,1,,,,,,,75,28,https://en.wikipedia.org/wiki/Armed_Forces_of_the_Republic_of_the_Congo,2003,2004
+364,605,New Forces - Ibrahim Coulibaly faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Ibrahim_Coulibaly,2004,2004
+365,6252,Taleban - Mohamed Rasool faction,,,,,,,,,,,,,,,,,,,1,,,,,0,112,,2015,2016
+366,650,Movement of the Democratic Forces of the Casamance - Northern Front Magne Diémé faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,,2006,2006
+367,2699,Muslims (Myanmar),,,,,,,,,,,,,,,,,,,,,1,,,0,17,https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar,2001,2014
+368,1133,Muslims (Egypt),,,,,,,,,,,,,,,,,,,,,1,,,0,21,,1995,2016
+369,668,Supporters of People's Democratic Party,,,,,,,,,,,,,,,,,1,,,,,,,5,63,https://en.wikipedia.org/wiki/People%27s_Democratic_Party_of_Afghanistan,1998,2016
+370,673,Federalist Republican Forces,,,,,,,,,,,,,,,,,,,,,,,1,0,20,https://en.wikipedia.org/wiki/Federalist_Party,2002,2002
+371,674,Congolese Rally for Democracy - Laurent Nkunda faction,,,,,,,,,,,,,,,,,,,1,,,,,139,0,https://en.wikipedia.org/wiki/Rally_for_Congolese_Democracy%E2%80%93Goma,2004,2004
+372,675,Republic of Somaliland,,,,,,,,,,,,,,,,,,,,,,,1,84,118,https://en.wikipedia.org/wiki/Somaliland,1992,2014
+373,677,Rahanweyn Resistance Army - Madobe and Habsade faction,,,,,,,,,,,,,,,,,,,1,,,,,24,8,https://en.wikipedia.org/wiki/Rahanweyn_Resistance_Army,2001,2005
+374,686,Somali Salvation Democratic Front,,,,,,,,,,,,,,,1,,,,,,,,,3727,2050,https://en.wikipedia.org/wiki/Somali_Salvation_Democratic_Front,1991,2002
+375,695,United Liberation Movement for Democracy in Liberia - Roosevelt Johnson faction,,,,,,,,,,,,,,,1,,,,1,,,,,1135,46,https://en.wikipedia.org/wiki/United_Liberation_Movement_of_Liberia_for_Democracy,1992,1997
+376,696,United Liberation Movement for Democracy in Liberia - Alhaji Kromah faction,,,,,,,,,,,,,,,1,,,,1,,,,,1467,10,https://en.wikipedia.org/wiki/United_Liberation_Movement_of_Liberia_for_Democracy,1992,1996
+377,5817,Maidan People's Council,,,,,,,,,,,,,,,,,1,,,,,,,0,12,https://en.wikipedia.org/wiki/Maidan_People%27s_Union,2014,2014
+378,698,"United Somalia Congress/Somali Salvation Alliance - Omar Mohamed Mohamud ""Finish"" faction",,,,,,,,,,,,,,,1,,,,1,,,,,31,0,https://en.wikipedia.org/wiki/Omar_Muhamoud_Finnish,2001,2003
+379,4456,Syrian insurgents,,,,,,,,,,,,,,,,1,,,,,,,,11,0,,2012,2015
+380,2765,Supporters of Jamaat-e-Islami,,,,,,,,,,,,,,,,,,1,,,,,,1,42,https://en.wikipedia.org/wiki/Jamaat-e-Islami_Pakistan,1990,2013
+381,724,Military faction (forces of Andres Rodriguez),,,,,,,,,,,,,,,,,,,1,,,,,0,0,,1989,1989
+382,6267,Macina Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,5,28,https://en.wikipedia.org/wiki/Macina_Liberation_Front,2015,2016
+383,744,National Liberation Army,,,,,,,,,,,,,,,1,,,,,,,,,347,652,https://en.wikipedia.org/wiki/Zapatista_Army_of_National_Liberation,1989,2016
+384,5865,Taleban Movement of Pakistan - Shehryar Mehsud faction,,,,,,,,,,,,,,,,,,,1,,,,,2,7,,2014,2014
+385,746,People’s Liberation Army,,,,,,,,,,,,,,,1,,,,,,,,,4,31,,1989,2016
+386,762,Muslim Society,,,,,,,,,,,,,,,,,,,,,1,,,0,0,https://en.wikipedia.org/wiki/Muslim_society_%E2%84%963,1990,1990
+387,765,National Front for the Liberation of Haiti,,,,,,,,,,,,,,,1,,,,,,,,,17,40,https://en.wikipedia.org/wiki/National_Revolutionary_Front_for_the_Liberation_of_Haiti,2004,2004
+388,774,Medellín Cartel,,,,,,,,,,,,,,,,,,,,1,,,,157,10,https://en.wikipedia.org/wiki/Medell%C3%ADn_Cartel,1989,1993
+389,775,Sinaloa Cartel,,,,,,,,,,,,,,,,,,,,1,,,,59,64,https://en.wikipedia.org/wiki/Sinaloa_Cartel,1992,2016
+390,782,Gulf Cartel,,,,,,,,,,,,,,,,,,,,1,,,,11,70,https://en.wikipedia.org/wiki/Gulf_Cartel,2004,2016
+391,784,Madhesi People's Rights Forum,,,,,,,,,,,,,,,,,1,,,,,,,0,26,"https://en.wikipedia.org/wiki/Madhesi_Jana_Adhikar_Forum,_Nepal",2007,2007
+392,786,Party for the Liberation of the Hutu People-Forces for National Liberation - Lovers of Peace faction,,,,,,,,,,,,,,,1,,,,1,,,,,1,2,,2007,2007
+393,788,Jubba Valley Alliance faction,,,,,,,,,,,,,,,,,,,1,,,,,11,0,,2002,2006
+394,793,Juarez Cartel,,,,,,,,,,,,,,,,,,,,1,,,,22,45,https://en.wikipedia.org/wiki/Ju%C3%A1rez_Cartel,2004,2016
+395,799,Tijuana Cartel,,,,,,,,,,,,,,,,,,,,1,,,,4,9,https://en.wikipedia.org/wiki/Tijuana_Cartel,1992,2016
+396,800,Tijuana Cartel - El Teo faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,5,https://en.wikipedia.org/wiki/Tijuana_Cartel,2008,2010
+397,801,Unity Party - Akbari faction,,,,,,,,,,,,,,,,,,,1,,,,,1,0,,1994,2003
+398,804,Biplobi Communist Party,,,,,,,,,,,,,,,,,1,,,,,,,0,12,,1993,2004
+399,805,East Bengal Communist Party,,,,,,,,,,,,,,,,,1,,,,,,,0,30,https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist),1993,2010
+400,810,Cali Cartel,,,,,,,,,,,,,,,,,,,,1,,,,0,3,https://en.wikipedia.org/wiki/Cali_Cartel,1990,1990
+401,817,Jammu and Kashmir Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,8,6,https://en.wikipedia.org/wiki/Jammu_Kashmir_Liberation_Front,1991,1995
+402,823,Islamic Movement of Kurdistan,,,,,,,,,,,,,,,,,,1,,,,,,0,29,https://en.wikipedia.org/wiki/Kurdistan_Islamic_Movement,1992,1994
+403,825,Supporters of People's National Party,,,,,,,,,,,,,,,,,1,,,,,,,1,7,https://en.wikipedia.org/wiki/German_National_People%27s_Party,1989,2003
+404,827,Surinamese Liberation Army,,,,,,,,,,,,,,,1,,,,,,,,,23,55,https://en.wikipedia.org/wiki/Jungle_Commando,1989,2000
+405,831,Mongko Defence Army - Lin Min faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,,2000,2000
+406,651,Movement of the Democratic Forces of the Casamance - Salif Sadio faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Casamance_conflict,2006,2006
+407,842,Provisional Council of the Chechen Republic,,,,,,,,,,,,,,,,,,,,,,,1,0,26,https://en.wikipedia.org/wiki/Chechen_Republic_of_Ichkeria,1994,1994
+408,843,Republic of Georgia,,,,,,,,,,,,,,,,,,,,,,,1,0,11,https://en.wikipedia.org/wiki/Georgian_Soviet_Socialist_Republic,1991,1991
+409,844,People's Liberation Organisation of Tamil Eelam,,,,,,,,,,,,,,,1,,1,,,,,,,0,13,https://en.wikipedia.org/wiki/People%27s_Liberation_Organisation_of_Tamil_Eelam,1989,1990
+410,845,Republic of Bosnia-Herzegovina,,,,,,,,,,,,,,,,,,,,,,,1,0,30,https://en.wikipedia.org/wiki/Republic_of_Bosnia_and_Herzegovina,1992,1992
+411,142,Government of Pakistan,,,,,,,,,,,,,,1,,,,,,,,,,1427,15387,https://en.wikipedia.org/wiki/Government_of_Pakistan,1989,2016
+412,856,Taleban - Ali Dad faction,,,,,,,,,,,,,,,,,,,1,,,,,0,18,,1996,1996
+413,857,Taleban - Mola Khel faction,,,,,,,,,,,,,,,,,,,1,,,,,0,12,,1996,1996
+414,859,Muslims (India),,,,,,,,,,,,,,,,,,,,,1,,,0,32,,1989,2013
+415,860,Christians (Indonesia),,,,,,,,,,,,,,,,,,,,,,1,,0,44,https://en.wikipedia.org/wiki/Indonesia,1999,2011
+416,861,Muslims (Indonesia),,,,,,,,,,,,,,,,,,,,,1,,,0,66,https://en.wikipedia.org/wiki/Islam_in_Indonesia,1999,2011
+417,872,Christians (Philippines),,,,,,,,,,,,,,,,,,,,,,1,,0,25,https://en.wikipedia.org/wiki/Philippines,1993,2006
+418,873,Muslims (Philippines),,,,,,,,,,,,,,,,,,,,,1,,,0,23,https://en.wikipedia.org/wiki/Islam_in_the_Philippines,1993,2006
+419,875,Supporters of People's Alliance,,,,,,,,,,,,,,,,,1,,,,,,,2,1,https://en.wikipedia.org/wiki/People%27s_Alliance_(Spain),1994,1999
+420,6002,Gulf Cartel - Los Fresitas faction,,,,,,,,,,,,,,,,,,,1,1,,,,1,0,,2014,2014
+421,6003,Gulf Cartel - Dragones de Sheyla faction,,,,,,,,,,,,,,,,,,,1,1,,,,1,0,,2014,2014
+422,885,Hmar People's Convention,,,,,,,,,,,,,,,,,1,,,,,,,30,0,https://en.wikipedia.org/wiki/Hmar_People%27s_Convention,2003,2015
+423,6007,Sinaloa Cartel - Los Salgueiro faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,0,,2014,2014
+424,6008,Sinaloa Cartel - Los Chavez Matamoros faction,,,,,,,,,,,,,,,,,,,1,1,,,,0,8,,2014,2014
+425,3968,Bru National Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,0,10,https://en.wikipedia.org/wiki/Insurgency_in_Northeast_India,2000,2000
+426,903,Armed Islamic Group - Covenant Battalion,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/British_Armed_Forces,1998,1998
+427,904,Armed Islamic Group - Holy Quran Battalion,,,,,,,,,,,,,,,,,,1,,,,,,0,0,https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant,1998,1998
+428,3981,National Union of Road Transport Workers-Auxiliary faction,,,,,,,,,,,,,,,,,,,1,,,,,0,0,https://en.wikipedia.org/wiki/Red_Army_Faction,2011,2011
+429,913,Anjouan People’s Movement - Said Omar Chamassi faction,,,,,,,,,,,,,,,,,,,1,,,,,3,0,,1998,1998
+430,1178,Tawheed ul-Islam ,,,,,,,,,,,,,,,,,,1,,,,,,1,27,,2012,2015
+431,4004,Muslims (Sri Lanka),,,,,,,,,,,,,,,,,,,,,1,,,0,0,https://en.wikipedia.org/wiki/Sri_Lankan_Moors,1989,2005
+432,5999,Union for Peace in the Central African Republic (,,,,,,,,,,,,,,,,,,,,,,,1,170,1,https://en.wikipedia.org/wiki/Central_African_Republic,2014,2016
+433,5965,Palaung State Liberation Front,,,,,,,,,,,,,,,1,,,,,,,,,7,136,https://en.wikipedia.org/wiki/Palaung_State_Liberation_Front,1994,2016
+434,998,Sudan People's Liberation Movement/Army - William Nyuon faction,,,,,,,,,,,,,,,1,,1,,1,,,,,114,0,https://en.wikipedia.org/wiki/Sudan_People%27s_Liberation_Army,1992,1993
+435,3047,Taleban Movement of Pakistan - Islahi faction,,,,,,,,,,,,,,,,,,,1,,,,,41,0,,2012,2012
+436,1004,Islamic Party,,,,,,,,,,,,,,,,,,1,,,,,,60,46,https://en.wikipedia.org/wiki/List_of_Islamic_political_parties,2009,2010
+437,338,Republic of Nagorno-Karabakh,,,,,,,,,,,,,,,,,,,,,,,1,457,1871,https://en.wikipedia.org/wiki/Republic_of_Artsakh,1991,2016
+438,6137,Military faction (forces of Nicolae Ceausescu),,,,,,,,,,,,,,,,,,,1,,,,,0,9,https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu,1989,1989
+439,1020,Christians (Nigeria),,,,,,,,,,,,,,,,,,,,,,1,,48,1226,https://en.wikipedia.org/wiki/Religion_in_Nigeria,1991,2016
+440,1021,Muslims (Nigeria),,,,,,,,,,,,,,,,,,,,,1,,,48,934,https://en.wikipedia.org/wiki/Islam_in_Nigeria,1991,2016
+441,341,Islamic Group,,,,,,,,,,,,,,,,,,1,,,,,,246,262,https://en.wikipedia.org/wiki/Al-Jama%27a_al-Islamiyya,1992,2000
