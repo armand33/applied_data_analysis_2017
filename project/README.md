@@ -10,8 +10,8 @@ Our final data story is available [here](https://ucdp-world-conflicts.github.io)
 Work done since milestone 2:
 - Classification of actors has been done mainly by scraping wikipedia and matching the srcaping with actors from the data set. This is detailed in the [wikipedia_scraping](https://nbviewer.jupyter.org/github/armand33/applied_data_analysis_2017/blob/master/project/notebooks/wikipedia_scraping.ipynb?flush_cache=true) notebook.
 - Data has been prepared for the visualizations (cleanning, matching, enrichment). This is detailed in the [milestone_3](https://nbviewer.jupyter.org/github/armand33/applied_data_analysis_2017/blob/master/project/notebooks/milestone_3.ipynb?flush_cache=true) notebook.
-- Visualizations of the data have been build using [d3.js](https://d3js.org/) (three main scales of visualization (countries and regions and actors)
-- The data story has been put together and is available [here](https://ucdp-world-conflicts.github.io)
+- Visualizations of the data have been build using [d3.js](https://d3js.org/) (three main scales of visualization (countries and regions and actors).
+- The data story has been put together and is available [here](https://ucdp-world-conflicts.github.io).
 _______________________________________________________
 _______________________________________________________
 # Milestone 2
