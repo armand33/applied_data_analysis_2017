@@ -26,7 +26,7 @@ However, the data set does not contain anything about Syria and North Korea.
 - The data story has been put together and is available [here](https://ucdp-world-conflicts.github.io).
 _______________________________________________________
 _______________________________________________________
-# Archive of Milestone 1 and 2
+# Archives of milestones 1 and 2
 
 The roadmap is the following:
 - Start with some genral statistic about world safety (as in part 2)
