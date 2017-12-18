@@ -1,17 +1,26 @@
-# How has world peace been doing since the fall of the Berlin Wall
-### *A walkthrough of the geopolitics of the last thirty years.*
+# Visualizing War
+### *The Face of Geopolitics*
 
 # Abstract
 
-The fall of the berlin wall in 1989, meant the cold war was coming to an end and a New World Order was to be established. Using the data set provided by UCDP, we would like to tell the story of the geopolitics of the last \~thirty years by looking at the results of major crisis but also to countries that have undergone general instability in this period without real outburst of violence. The aim is to understand past political crises and provide tools to understand and predict the current and future political state of the world.
+The fall of the berlin wall in 1989, meant the cold war was coming to an end and a New World Order was to be established. Using the data set provided by [UCDP](http://ucdp.uu.se/downloads/), we would like to tell the story of the geopolitics of the last \~thirty years by looking at the results of major crisis but also to countries that have undergone general instability in this period without real outburst of violence. The aim is to understand past political crises and provide tools to understand and predict the current and future political state of the world.
+
+Our final data story is available [here](https://ucdp-world-conflicts.github.io).
+
+Work done since milestone 2:
+- Classification of actors has been done mainly by scraping wikipedia and matching the srcaping with actors from the data set. This is detailed in the [wikipedia_scraping](https://nbviewer.jupyter.org/github/armand33/applied_data_analysis_2017/blob/master/project/notebooks/wikipedia_scraping.ipynb?flush_cache=true) notebook.
+- Data has been prepared for the visualizations (cleanning, matching, enrichment). This is detailed in the [milestone_3](https://nbviewer.jupyter.org/github/armand33/applied_data_analysis_2017/blob/master/project/notebooks/milestone_3.ipynb?flush_cache=true) notebook.
+- Visualizations of the data have been build using [d3.js](https://d3js.org/) (three main scales of visualization (countries and regions and actors)
+- The data story has been put together
+_______________________________________________________
+_______________________________________________________
+# Milestone 2
 
 The roadmap is the following:
 - Start with some genral statistic about world safety (as in part 2)
 - Detail some well known crisis such as the Rwandan genocide and compare them to some others (WWII, Shoah)
 - Explore events in a groups (socialists uprisals, ethnic conflicts, cartel wars)
 - Put those in relations with other data (economy, drought)
-
-The story will be told on an interractive map relying on JavaScript libraries such as D3.
 
 # Research questions
 * How has the world evolved in terms of conflicts after the cold war, i.e., during the time span covered in the dataset?
