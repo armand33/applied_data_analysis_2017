@@ -20,6 +20,7 @@ Data can be filtered by type of violence (state-based, one-sided), general confl
 However, the data set does not contain anything about Syria and North Korea.
 
 ### Work done since milestone 2:
+- We finished to answer the research questions (classification of actors : details below, media coverage)
 - Classification of actors has been done mainly by scraping wikipedia and matching the srcaping with actors from the data set. This is detailed in the [wikipedia_scraping](https://nbviewer.jupyter.org/github/armand33/applied_data_analysis_2017/blob/master/project/notebooks/wikipedia_scraping.ipynb?flush_cache=true) notebook.
 - Data has been prepared for the visualizations (cleanning, matching, enrichment). This is detailed in the [milestone_3](https://nbviewer.jupyter.org/github/armand33/applied_data_analysis_2017/blob/master/project/notebooks/milestone_3.ipynb?flush_cache=true) notebook.
 - Visualizations of the data have been build using [d3.js](https://d3js.org/) (three main scales of visualization (countries and regions and actors).
