@@ -1,7 +1,7 @@
 # Visualizing War
 ### *The Face of Geopolitics*
 
-Our final data story is available [here](https://ucdp-world-conflicts.github.io).
+Our final data story is available [here](https://the-face-of-geopolitics.github.io).
 
 # Abstract
 
@@ -23,7 +23,7 @@ However, the data set does not contain anything about Syria and North Korea.
 - Classification of actors has been done mainly by scraping wikipedia and matching the srcaping with actors from the data set. This is detailed in the [wikipedia_scraping](https://nbviewer.jupyter.org/github/armand33/applied_data_analysis_2017/blob/master/project/notebooks/wikipedia_scraping.ipynb?flush_cache=true) notebook.
 - Data has been prepared for the visualizations (cleanning, matching, enrichment). This is detailed in the [milestone_3](https://nbviewer.jupyter.org/github/armand33/applied_data_analysis_2017/blob/master/project/notebooks/milestone_3.ipynb?flush_cache=true) notebook.
 - Visualizations of the data have been build using [d3.js](https://d3js.org/) (three main scales of visualization (countries and regions and actors).
-- The data story has been put together and is available [here](https://ucdp-world-conflicts.github.io).
+- The data story has been put together and is available [here](https://the-face-of-geopolitics.github.io).
 _______________________________________________________
 _______________________________________________________
 # Archives of milestones 1 and 2
